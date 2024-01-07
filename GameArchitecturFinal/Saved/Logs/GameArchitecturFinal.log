@@ -2937,3 +2937,305 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2024.01.07-11.24.33:286][562]AssetCheck: New page: Asset Save: multiple assets
 [2024.01.07-11.24.33:286][562]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Level/Level/LandscapeLevel_BuiltData.LandscapeLevel_BuiltData
 [2024.01.07-11.24.33:286][562]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel
+[2024.01.07-11.25.33:384][568]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.25.39:421][285]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.25.40:521][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:522][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:523][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:523][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:523][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:524][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:524][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:524][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:525][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:526][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:526][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:526][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:526][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:527][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:527][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:527][402]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.25.40:528][402]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2024.01.07-11.25.52:064][774]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 512X512)
+[2024.01.07-11.26.20:413][159]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.07-11.28.57:732][854]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2024.01.07-11.28.57:732][854]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28C2
+[2024.01.07-11.28.57:732][854]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28D7
+[2024.01.07-11.28.57:732][854]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28EA
+[2024.01.07-11.28.57:732][854]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28FF
+[2024.01.07-11.28.57:732][854]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:3119
+[2024.01.07-11.28.57:732][854]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:315E
+[2024.01.07-11.28.57:732][854]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:3173
+[2024.01.07-11.28.57:732][854]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:3186
+[2024.01.07-11.28.57:732][854]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:319B
+[2024.01.07-11.28.57:732][854]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:32DF
+[2024.01.07-11.28.57:737][854]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2024.01.07-11.28.57:737][854]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28C2
+[2024.01.07-11.28.57:737][854]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28D7
+[2024.01.07-11.28.57:737][854]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28EA
+[2024.01.07-11.28.57:737][854]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28FF
+[2024.01.07-11.32.18:545][611]Cmd: TRANSACTION UNDO
+[2024.01.07-11.32.18:545][611]LogEditorTransaction: Undo Move Actors
+[2024.01.07-11.32.18:557][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:558][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:558][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:558][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:558][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:558][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:558][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:558][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:559][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:559][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:559][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:559][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:559][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:559][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:559][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.18:559][611]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.32.20:738][822]LogEditorViewport: Clicking Background
+[2024.01.07-11.32.23:355][128]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.32.49:635][ 17]Cmd: TRANSACTION UNDO
+[2024.01.07-11.32.49:635][ 17]LogEditorTransaction: Undo Move Actors
+[2024.01.07-11.33.38:539][752]Cmd: TRANSACTION UNDO
+[2024.01.07-11.33.38:539][752]LogEditorTransaction: Undo Edit Falloff Width
+[2024.01.07-11.34.45:360][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.07-11.34.45:512][623]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel1EFA1FE24EB6299D93BA44AB096CBDE8.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Level/LandscapeLevel.umap'
+[2024.01.07-11.34.45:532][623]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel_BuiltData051087C744DC3B11AFDD58BD16746294.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Level/LandscapeLevel_BuiltData.uasset'
+[2024.01.07-11.34.45:545][623]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.07-11.34.45:545][623]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Level/Level/LandscapeLevel_BuiltData.LandscapeLevel_BuiltData
+[2024.01.07-11.34.45:545][623]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel
+[2024.01.07-11.34.49:108][828]LogSlate: Window 'Create New Blueprint' being destroyed
+[2024.01.07-11.35.32:767][ 11]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2024.01.07-11.35.32:767][ 11]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28C2
+[2024.01.07-11.35.32:767][ 11]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28D7
+[2024.01.07-11.35.32:767][ 11]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28EA
+[2024.01.07-11.35.32:767][ 11]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28FF
+[2024.01.07-11.35.32:767][ 11]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:3119
+[2024.01.07-11.35.32:767][ 11]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:315E
+[2024.01.07-11.35.32:767][ 11]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:3173
+[2024.01.07-11.35.32:767][ 11]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:3186
+[2024.01.07-11.35.32:767][ 11]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:319B
+[2024.01.07-11.35.32:767][ 11]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:32DF
+[2024.01.07-11.35.32:772][ 11]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2024.01.07-11.35.32:772][ 11]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28C2
+[2024.01.07-11.35.32:772][ 11]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28D7
+[2024.01.07-11.35.32:772][ 11]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28EA
+[2024.01.07-11.35.32:772][ 11]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28FF
+[2024.01.07-11.36.11:135][398]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.36.12:269][531]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.36.13:132][634]LogEditorViewport: Clicking on Actor (LMB): CustomBrush_Landmass_C (Landscape_CustomBrush_Landmass_C)
+[2024.01.07-11.36.29:217][414]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.36.29:854][488]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.36.30:536][569]LogEditorViewport: Clicking on Actor (LMB): CustomBrush_Landmass_C (Landscape_CustomBrush_Landmass_C)
+[2024.01.07-11.36.34:928][ 61]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.36.36:423][238]LogEditorViewport: Clicking on Actor (LMB): CustomBrush_Landmass_C (Landscape_CustomBrush_Landmass_C)
+[2024.01.07-11.36.54:335][275]Cmd: TRANSACTION UNDO
+[2024.01.07-11.36.54:335][275]LogEditorTransaction: Undo Move Actors
+[2024.01.07-11.36.54:348][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:348][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:349][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:349][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:349][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:349][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:349][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:349][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:350][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:350][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:350][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:350][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:350][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:350][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:350][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.36.54:350][275]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.18:517][  6]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.41.19:043][ 59]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.41.19:673][132]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.41.30:426][400]Cmd: TRANSACTION UNDO
+[2024.01.07-11.41.30:426][400]LogEditorTransaction: Undo Rotate Actors
+[2024.01.07-11.41.30:439][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:440][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:440][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:440][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:440][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:441][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:441][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:441][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:441][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:441][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:441][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:441][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:441][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:442][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:442][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.30:442][400]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.42:983][839]Cmd: TRANSACTION UNDO
+[2024.01.07-11.41.42:983][839]LogEditorTransaction: Undo Rotate Actors
+[2024.01.07-11.41.42:999][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:000][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:000][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:000][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:000][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:001][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:001][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:001][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:001][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:001][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:001][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:001][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:001][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:002][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:002][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.41.43:002][839]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:636][153]Cmd: TRANSACTION UNDO
+[2024.01.07-11.42.12:636][153]LogEditorTransaction: Undo Move Actors
+[2024.01.07-11.42.12:652][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:652][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:652][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:652][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:653][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:653][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:653][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:653][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:653][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:654][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:654][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:654][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:654][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:654][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:654][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.12:654][153]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.15:872][468]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.42.16:692][563]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.42.17:814][697]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.42.17:886][705]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2024.01.07-11.42.19:006][839]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.42.30:149][156]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2024.01.07-11.42.30:149][156]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28C2
+[2024.01.07-11.42.30:149][156]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28D7
+[2024.01.07-11.42.30:149][156]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28EA
+[2024.01.07-11.42.30:149][156]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:28FF
+[2024.01.07-11.42.30:149][156]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:3119
+[2024.01.07-11.42.30:149][156]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:315E
+[2024.01.07-11.42.30:149][156]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:3173
+[2024.01.07-11.42.30:149][156]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:3186
+[2024.01.07-11.42.30:149][156]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:319B
+[2024.01.07-11.42.30:149][156]LogScript: Warning: Accessed None trying to read property BrushManager
+	CustomBrush_Landmass_C /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:32DF
+[2024.01.07-11.42.30:156][156]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TextureRenderTarget2D /Engine/Transient.Heightmap RT Combined Non Atlas_3) from referencer (MaterialInstanceDynamic /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2.MaterialInstanceDynamic_1).  Import failed...
+[2024.01.07-11.42.30:156][156]LogProperty: Warning: ObjectProperty /Script/Engine.TextureParameterValue:ParameterValue: unresolved reference to 'TextureRenderTarget2D'"/Engine/Transient.Heightmap RT Combined Non Atlas_3"')'
+[2024.01.07-11.42.30:156][156]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TextureRenderTarget2D /Engine/Transient.Heightmap RT Combined Non Atlas_3) from referencer (MaterialInstanceDynamic /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel:PersistentLevel.Landscape_CustomBrush_Landmass_C_2.MaterialInstanceDynamic_2).  Import failed...
+[2024.01.07-11.42.30:156][156]LogProperty: Warning: ObjectProperty /Script/Engine.TextureParameterValue:ParameterValue: unresolved reference to 'TextureRenderTarget2D'"/Engine/Transient.Heightmap RT Combined Non Atlas_3"')'
+[2024.01.07-11.42.49:790][ 88]Cmd: TRANSACTION UNDO
+[2024.01.07-11.42.49:790][ 88]LogEditorTransaction: Undo Rotate Actors
+[2024.01.07-11.42.49:804][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:804][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:804][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:805][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:805][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:805][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:806][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:806][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:806][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:806][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:806][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:806][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:807][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:807][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:807][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.42.49:807][ 88]LogLandscape: Warning: Shader TShadowDepthVSVertexShadowDepth_VSLayer unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2024.01.07-11.43.08:665][279]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.43.09:397][364]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.43.09:518][378]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2024.01.07-11.43.10:549][501]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.07-11.43.29:007][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.07-11.43.29:160][697]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevelE4E104C84A2A6D25BD19699C7EED60AB.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Level/LandscapeLevel.umap'
+[2024.01.07-11.43.29:183][697]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel_BuiltData658550FE44ED343AA42ACA9EE4E6F1D4.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Level/LandscapeLevel_BuiltData.uasset'
+[2024.01.07-11.43.29:194][697]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.07-11.43.29:194][697]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Level/Level/LandscapeLevel_BuiltData.LandscapeLevel_BuiltData
+[2024.01.07-11.43.29:194][697]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel
+[2024.01.07-11.43.31:237][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
