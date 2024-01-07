@@ -1,2 +1,0 @@
-C:\Users\w1886249\Documents\GitHub\Game-Engine-Architecture-Unreal\GameArchitecturFinal\Intermediate\Build\Win64\UE4Editor\Development\GameArchitecturFinal\Definitions.GameArchitecturFinal.h
-C:\Users\w1886249\Documents\GitHub\Game-Engine-Architecture-Unreal\GameArchitecturFinal\Source\GameArchitecturFinal\GameArchitecturFinal.h
