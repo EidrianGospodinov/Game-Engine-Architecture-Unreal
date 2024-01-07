@@ -2382,3 +2382,157 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2024.01.07-20.15.51:617][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.01.07-20.15.51:622][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
 [2024.01.07-20.15.51:654][576]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.01.07-20.16.43:955][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.07-20.16.45:526][410]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.07-20.16.45:537][410]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/StarterContent/Level/Level/FPsGamemode.FPsGamemode
+	Asset Name: /Game/StarterContent/Level/Level/FPsGamemode.Default__FPsGamemode_C
+	Asset Name: /Game/StarterContent/Level/Level/FPsGamemode.FPsGamemode_C
+[2024.01.07-20.16.45:735][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.07-20.16.50:456][966]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.07-20.16.50:464][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.07-20.16.50:464][966]PIE: New page: PIE session: MainMenuLevel (7 Jan 2024, 20:16:50)
+[2024.01.07-20.16.50:495][966]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_MainMenuLevel
+[2024.01.07-20.16.50:495][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000649s)
+[2024.01.07-20.16.50:496][966]LogAIModule: Creating AISystem for world MainMenuLevel
+[2024.01.07-20.16.50:496][966]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2024.01.07-20.16.50:496][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/MainMenuLevel.MainMenuLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001491s)
+[2024.01.07-20.16.50:507][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.07-20.16.50:508][966]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.07-20.16.50:508][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.07-20.16.50:508][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.07-20.16.50:508][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.07-20.16.50:508][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.07-20.16.50:508][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.07-20.16.50:508][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.07-20.16.50:508][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.07-20.16.50:508][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.07-20.16.50:509][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.07-20.16.50:509][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.07-20.16.50:509][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.07-20.16.50:509][966]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.07-20.16.50:514][966]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.07-20.16.50:514][966]LogAudioMixer: Display: 1: FrontRight
+[2024.01.07-20.16.50:528][966]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.07-20.16.50:529][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.07-20.16.50:529][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.07-20.16.50:529][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.07-20.16.50:529][966]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.07-20.16.50:529][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.07-20.16.50:529][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.07-20.16.50:530][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.07-20.16.50:530][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.07-20.16.50:530][966]LogInit: FAudioDevice initialized.
+[2024.01.07-20.16.50:530][966]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenuLevel'.
+[2024.01.07-20.16.50:540][966]LogLoad: Game class is 'MenuGamemode_C'
+[2024.01.07-20.16.50:541][966]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2024.01.07-20.16.50
+[2024.01.07-20.16.50:542][966]LogWorld: Bringing up level for play took: 0.000219
+[2024.01.07-20.16.50:542][966]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2024.01.07-20.16.50:543][966]PIE: Server logged in
+[2024.01.07-20.16.50:544][966]PIE: Play in editor total start time 0.084 seconds.
+[2024.01.07-20.16.51:881][126]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.01.07-20.16.51:882][126]LogNet: Browse: /Game/StarterContent/Level/Scene/LandscapeLevel
+[2024.01.07-20.16.51:882][126]LogLoad: LoadMap: /Game/StarterContent/Level/Scene/LandscapeLevel
+[2024.01.07-20.16.51:882][126]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_MainMenuLevel
+[2024.01.07-20.16.51:882][126]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-20.16.51:882][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-20.16.51:924][126]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-20.16.51:925][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.07-20.16.51:926][126]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.07-20.16.51:949][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023139s)
+[2024.01.07-20.16.51:950][126]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.07-20.16.51:950][126]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2024.01.07-20.16.51:950][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.024084s)
+[2024.01.07-20.16.51:950][126]LogAudio: Display: Audio Device (ID: 14) registered with world 'LandscapeLevel'.
+[2024.01.07-20.16.51:950][126]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.07-20.16.51:954][126]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.07-20.16.51
+[2024.01.07-20.16.51:954][126]LogWorld: Bringing up level for play took: 0.003112
+[2024.01.07-20.16.51:955][126]LogLoad: Took 0.072805 seconds to LoadMap(/Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel)
+[2024.01.07-20.16.53:536][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.07-20.16.53:536][306]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.07-20.16.53:537][306]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-20.16.53:538][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-20.16.53:542][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.07-20.16.53:544][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-20.16.53:555][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.07-20.16.53:555][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.07-20.16.53:556][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.07-20.16.53:561][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.07-20.16.53:603][309]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.01.07-20.16.54:699][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.07-20.16.58:682][436]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-20.17.04:658][138]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.07-20.17.04:666][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.07-20.17.04:666][138]PIE: New page: PIE session: MainMenuLevel (7 Jan 2024, 20:17:04)
+[2024.01.07-20.17.04:666][138]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_MainMenuLevel
+[2024.01.07-20.17.04:666][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000770s)
+[2024.01.07-20.17.04:667][138]LogAIModule: Creating AISystem for world MainMenuLevel
+[2024.01.07-20.17.04:667][138]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2024.01.07-20.17.04:667][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/MainMenuLevel.MainMenuLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001593s)
+[2024.01.07-20.17.04:679][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.07-20.17.04:680][138]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.01.07-20.17.04:680][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.07-20.17.04:680][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.07-20.17.04:680][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.07-20.17.04:680][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.07-20.17.04:680][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.07-20.17.04:680][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.07-20.17.04:680][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.07-20.17.04:680][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.07-20.17.04:680][138]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.07-20.17.04:680][138]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.07-20.17.04:680][138]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.07-20.17.04:680][138]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.07-20.17.04:686][138]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.07-20.17.04:686][138]LogAudioMixer: Display: 1: FrontRight
+[2024.01.07-20.17.04:702][138]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.07-20.17.04:703][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.07-20.17.04:703][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.07-20.17.04:703][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.07-20.17.04:703][138]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.07-20.17.04:703][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.07-20.17.04:703][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.07-20.17.04:704][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.07-20.17.04:704][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.07-20.17.04:704][138]LogInit: FAudioDevice initialized.
+[2024.01.07-20.17.04:704][138]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenuLevel'.
+[2024.01.07-20.17.04:710][138]LogLoad: Game class is 'MenuGamemode_C'
+[2024.01.07-20.17.04:711][138]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2024.01.07-20.17.04
+[2024.01.07-20.17.04:711][138]LogWorld: Bringing up level for play took: 0.000208
+[2024.01.07-20.17.04:711][138]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2024.01.07-20.17.04:713][138]PIE: Server logged in
+[2024.01.07-20.17.04:714][138]PIE: Play in editor total start time 0.051 seconds.
+[2024.01.07-20.17.05:707][257]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.01.07-20.17.05:707][257]LogNet: Browse: /Game/StarterContent/Level/Scene/LandscapeLevel
+[2024.01.07-20.17.05:707][257]LogLoad: LoadMap: /Game/StarterContent/Level/Scene/LandscapeLevel
+[2024.01.07-20.17.05:707][257]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_MainMenuLevel
+[2024.01.07-20.17.05:708][257]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-20.17.05:708][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-20.17.05:754][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-20.17.05:756][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.07-20.17.05:756][257]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.07-20.17.05:779][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022822s)
+[2024.01.07-20.17.05:780][257]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.07-20.17.05:780][257]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2024.01.07-20.17.05:780][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.023777s)
+[2024.01.07-20.17.05:780][257]LogAudio: Display: Audio Device (ID: 15) registered with world 'LandscapeLevel'.
+[2024.01.07-20.17.05:780][257]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.07-20.17.05:785][257]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.07-20.17.05
+[2024.01.07-20.17.05:786][257]LogWorld: Bringing up level for play took: 0.004492
+[2024.01.07-20.17.05:787][257]LogLoad: Took 0.079769 seconds to LoadMap(/Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel)
+[2024.01.07-20.17.10:976][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.07-20.17.10:976][866]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.07-20.17.10:976][866]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-20.17.10:978][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-20.17.10:984][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.07-20.17.10:987][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-20.17.10:998][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.07-20.17.10:998][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.07-20.17.10:999][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.07-20.17.11:003][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.07-20.17.11:034][868]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.01.07-20.17.13:060][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.07-20.17.13:066][ 99]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/MainMenuLevel0D934FC8462212DEBC8024AE0137FB93.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/MainMenuLevel.umap'
+[2024.01.07-20.17.13:083][ 99]AssetCheck: New page: Asset Save: MainMenuLevel
+[2024.01.07-20.17.13:083][ 99]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Scene/MainMenuLevel.MainMenuLevel
+[2024.01.07-20.17.16:090][459]Cmd: SELECT NONE
