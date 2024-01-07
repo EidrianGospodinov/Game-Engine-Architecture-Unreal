@@ -3475,3 +3475,126 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2024.01.07-12.14.20:795][830]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Level/Level/LandscapeLevel_BuiltData.LandscapeLevel_BuiltData
 [2024.01.07-12.14.20:795][830]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel
 [2024.01.07-12.14.21:641][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.01.07-12.14.44:196][281]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.07-12.14.49:368][873]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.07-12.14.55:775][636]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.07-12.14.59:368][ 41]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.07-12.15.01:268][268]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.07-12.15.02:843][456]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.07-12.15.09:624][253]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.07-12.15.09:631][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.07-12.15.09:631][253]PIE: New page: PIE session: LandscapeLevel (7 Jan 2024, 12:15:09)
+[2024.01.07-12.15.09:632][253]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.01.07-12.15.09:633][253]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.01.07-12.15.09:633][253]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Level/UEDPIE_0_LandscapeLevel
+[2024.01.07-12.15.09:656][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022659s)
+[2024.01.07-12.15.09:657][253]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.07-12.15.09:658][253]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2024.01.07-12.15.09:658][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Level/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.023808s)
+[2024.01.07-12.15.09:662][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.07-12.15.09:666][253]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.01.07-12.15.09:666][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.07-12.15.09:666][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.07-12.15.09:666][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.07-12.15.09:666][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.07-12.15.09:666][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.07-12.15.09:666][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.07-12.15.09:666][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.07-12.15.09:666][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.07-12.15.09:667][253]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.07-12.15.09:667][253]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.07-12.15.09:667][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.07-12.15.09:667][253]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.07-12.15.09:673][253]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.07-12.15.09:673][253]LogAudioMixer: Display: 1: FrontRight
+[2024.01.07-12.15.09:689][253]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.07-12.15.09:689][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.07-12.15.09:689][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.07-12.15.09:689][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.07-12.15.09:690][253]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.07-12.15.09:690][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.07-12.15.09:690][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.07-12.15.09:690][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.07-12.15.09:690][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.07-12.15.09:690][253]LogInit: FAudioDevice initialized.
+[2024.01.07-12.15.09:690][253]LogAudio: Display: Audio Device (ID: 2) registered with world 'LandscapeLevel'.
+[2024.01.07-12.15.09:700][253]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.07-12.15.09:702][253]LogWorld: Bringing World /Game/StarterContent/Level/Level/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.07-12.15.09
+[2024.01.07-12.15.09:702][253]LogWorld: Bringing up level for play took: 0.001304
+[2024.01.07-12.15.09:702][253]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2024.01.07-12.15.09:705][253]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.01.07-12.15.09:705][253]PIE: Server logged in
+[2024.01.07-12.15.09:707][253]PIE: Play in editor total start time 0.078 seconds.
+[2024.01.07-12.15.40:859][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.07-12.15.40:859][984]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Level/UEDPIE_0_LandscapeLevel
+[2024.01.07-12.15.40:861][984]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-12.15.40:861][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-12.15.40:870][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.07-12.15.40:878][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-12.15.40:882][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.07-12.15.40:882][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.07-12.15.40:883][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.07-12.15.40:887][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.07-12.15.40:940][987]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.01.07-12.15.58:767][ 48]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/EasyBuildingSystem/Meshes/Environment/Stylized/Foliage/SM_Tree_004.SM_Tree_004
+[2024.01.07-12.15.58:832][ 48]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.01.07-12.15.58:886][ 48]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.01.07-12.16.13:764][358]LogSlate: Window 'Save Asset As' being destroyed
+[2024.01.07-12.17.26:851][797]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.07-12.17.26:858][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.07-12.17.26:858][797]PIE: New page: PIE session: LandscapeLevel (7 Jan 2024, 12:17:26)
+[2024.01.07-12.17.26:858][797]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Level/UEDPIE_0_LandscapeLevel
+[2024.01.07-12.17.26:880][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021797s)
+[2024.01.07-12.17.26:880][797]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.07-12.17.26:880][797]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2024.01.07-12.17.26:880][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Level/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.022821s)
+[2024.01.07-12.17.26:885][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.07-12.17.26:891][797]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.01.07-12.17.26:891][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.07-12.17.26:891][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.07-12.17.26:891][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.07-12.17.26:891][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.07-12.17.26:891][797]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.07-12.17.26:891][797]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.07-12.17.26:891][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.07-12.17.26:892][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.07-12.17.26:892][797]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.07-12.17.26:892][797]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.07-12.17.26:892][797]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.07-12.17.26:892][797]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.07-12.17.26:897][797]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.07-12.17.26:897][797]LogAudioMixer: Display: 1: FrontRight
+[2024.01.07-12.17.26:913][797]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.07-12.17.26:913][797]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.07-12.17.26:913][797]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.07-12.17.26:914][797]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.07-12.17.26:914][797]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.07-12.17.26:914][797]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.07-12.17.26:914][797]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.07-12.17.26:915][797]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.07-12.17.26:915][797]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.07-12.17.26:915][797]LogInit: FAudioDevice initialized.
+[2024.01.07-12.17.26:915][797]LogAudio: Display: Audio Device (ID: 3) registered with world 'LandscapeLevel'.
+[2024.01.07-12.17.26:921][797]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.07-12.17.26:925][797]LogWorld: Bringing World /Game/StarterContent/Level/Level/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.07-12.17.26
+[2024.01.07-12.17.26:925][797]LogWorld: Bringing up level for play took: 0.003463
+[2024.01.07-12.17.26:926][797]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2024.01.07-12.17.26:928][797]PIE: Server logged in
+[2024.01.07-12.17.26:929][797]PIE: Play in editor total start time 0.074 seconds.
+[2024.01.07-12.17.29:382][ 82]LogSlate: Window 'SM_Tree_004' being destroyed
+[2024.01.07-12.17.29:390][ 82]LogSlate: Window 'SM_Tree_004' being destroyed
+[2024.01.07-12.17.29:394][ 82]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-12.17.29:394][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-12.18.11:439][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.07-12.18.11:439][117]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Level/UEDPIE_0_LandscapeLevel
+[2024.01.07-12.18.11:439][117]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-12.18.11:440][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-12.18.11:452][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.07-12.18.11:453][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-12.18.11:457][117]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-12.18.11:457][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.07-12.18.11:458][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.07-12.18.11:461][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.07-12.18.11:463][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.07-12.18.11:499][119]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.01.07-12.19.23:828][461]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
