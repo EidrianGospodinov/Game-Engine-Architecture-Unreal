@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\w1886249\\Documents\\GitHub\\Game-Engine-Architecture-Unreal\\GameArchitecturFinal\\Source\\GameArchitecturFinal\\GameArchitecturFinal.Build.cs",
+		"C:\\Users\\w1886249\\Documents\\GitHub\\Game-Engine-Architecture-Unreal\\GameArchitecturFinal\\Source\\GameArchitecturFinal.Target.cs",
+		"C:\\Users\\w1886249\\Documents\\GitHub\\Game-Engine-Architecture-Unreal\\GameArchitecturFinal\\Source\\GameArchitecturFinalEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
