@@ -3379,3 +3379,99 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2024.01.07-12.07.48:497][871]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel
 [2024.01.07-12.07.50:418][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
 [2024.01.07-12.08.10:118][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.01.07-12.09.42:004][617]LogMaterial: Display: Missing cached shadermap for MM_Rocks in PCD3D_SM5, Default, SM5 (DDC key hash: 6042023396F7C0BA6C50A01E9EBC8595C344A896), compiling. 
+[2024.01.07-12.09.42:023][617]LogShaderCompilers: Display: Submitted 45 shader compile jobs with 'Low' priority
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 45
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 41
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 37
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 33
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2024.01.07-12.09.42:036][617]LogShaderCompilers: Display: Started 45 'Local' shader compile jobs with 'Low' priority
+[2024.01.07-12.09.42:172][627]LogActorFactory: Actor Factory created SM_Cliff_001
+[2024.01.07-12.09.42:172][627]LogActorFactory: Actor Factory created SM_Cliff_002
+[2024.01.07-12.09.42:173][627]LogActorFactory: Actor Factory created SM_Cliff_003
+[2024.01.07-12.09.42:173][627]LogActorFactory: Actor Factory created SM_RockPile_001
+[2024.01.07-12.09.42:173][627]LogActorFactory: Actor Factory created SM_SmallRock_001
+[2024.01.07-12.09.42:174][627]LogActorFactory: Actor Factory created SM_SmallRock_002
+[2024.01.07-12.09.42:174][627]LogActorFactory: Actor Factory created SM_SmallRock_003
+[2024.01.07-12.09.42:174][627]LogActorFactory: Actor Factory created SM_SmallRock_004
+[2024.01.07-12.09.42:174][627]LogActorFactory: Actor Factory created SM_SmallRock_005
+[2024.01.07-12.09.42:175][627]LogActorFactory: Actor Factory created SM_SmallRock_006
+[2024.01.07-12.09.42:888][690]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.07-12.09.42:888][690]LogShaderCompilers: Display: Total job queries 12149, among them cache hits 4507 (37.10%)
+[2024.01.07-12.09.42:888][690]LogShaderCompilers: Display: Tracking 7437 distinct input hashes that result in 1935 distinct outputs (26.02%)
+[2024.01.07-12.09.42:888][690]LogShaderCompilers: Display: RAM used: 13.50 MB (0.01 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.41%
+[2024.01.07-12.09.42:888][690]LogShaderCompilers: Display: ================================================
+[2024.01.07-12.10.26:632][770]LogMaterial: Display: Material /Game/EasyBuildingSystem/Materials/Masters/Polygonal/MM_Rocks.MM_Rocks needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2024.01.07-12.10.26:634][770]LogMaterial: Display: Missing cached shadermap for MM_Rocks in PCD3D_SM5, Default, SM5 (DDC key hash: 6FE1B406D3C8F320DA02EB48E0015114875C88B8), compiling. 
+[2024.01.07-12.10.26:667][770]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Low' priority
+[2024.01.07-12.10.26:686][771]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 46
+[2024.01.07-12.10.26:686][771]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 42
+[2024.01.07-12.10.26:686][771]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 38
+[2024.01.07-12.10.26:686][771]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2024.01.07-12.10.26:686][771]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 30
+[2024.01.07-12.10.26:686][771]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2024.01.07-12.10.26:686][771]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 22
+[2024.01.07-12.10.26:686][771]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 18
+[2024.01.07-12.10.26:686][771]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 14
+[2024.01.07-12.10.26:686][771]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2024.01.07-12.10.26:687][771]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2024.01.07-12.10.26:687][771]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2024.01.07-12.10.26:687][771]LogShaderCompilers: Display: Started 46 'Local' shader compile jobs with 'Low' priority
+[2024.01.07-12.10.27:839][851]Cmd: TRANSACTION UNDO
+[2024.01.07-12.10.27:839][851]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.10.39:655][215]Cmd: TRANSACTION UNDO
+[2024.01.07-12.10.39:655][215]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.10.51:501][587]Cmd: TRANSACTION UNDO
+[2024.01.07-12.10.51:501][587]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.11.13:495][161]Cmd: TRANSACTION UNDO
+[2024.01.07-12.11.13:496][161]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.11.13:918][172]Cmd: TRANSACTION UNDO
+[2024.01.07-12.11.13:918][172]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.11.14:402][220]Cmd: TRANSACTION UNDO
+[2024.01.07-12.11.14:402][220]LogEditorTransaction: Undo Set Interval Property
+[2024.01.07-12.11.15:080][293]Cmd: TRANSACTION UNDO
+[2024.01.07-12.11.15:080][293]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.11.15:703][361]Cmd: TRANSACTION UNDO
+[2024.01.07-12.11.15:703][361]LogEditorTransaction: Undo Set Interval Property
+[2024.01.07-12.11.16:384][437]Cmd: TRANSACTION UNDO
+[2024.01.07-12.11.16:384][437]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.11.17:025][508]Cmd: TRANSACTION UNDO
+[2024.01.07-12.11.17:025][508]LogEditorTransaction: Undo Drag-drop Foliage
+[2024.01.07-12.11.18:853][722]Cmd: TRANSACTION REDO
+[2024.01.07-12.11.18:853][722]LogEditorTransaction: Redo Drag-drop Foliage
+[2024.01.07-12.11.28:521][864]Cmd: TRANSACTION UNDO
+[2024.01.07-12.11.28:521][864]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.11.41:890][368]Cmd: TRANSACTION UNDO
+[2024.01.07-12.11.41:890][368]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.11.56:710][ 43]LogEditorViewport: Clicking Background
+[2024.01.07-12.12.08:965][478]Cmd: TRANSACTION UNDO
+[2024.01.07-12.12.08:965][478]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.12.09:610][507]Cmd: TRANSACTION UNDO
+[2024.01.07-12.12.09:610][507]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.12.10:568][617]Cmd: TRANSACTION UNDO
+[2024.01.07-12.12.10:568][617]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.12.11:265][696]Cmd: TRANSACTION UNDO
+[2024.01.07-12.12.11:265][696]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.12.11:980][777]Cmd: TRANSACTION UNDO
+[2024.01.07-12.12.11:980][777]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.12.52:208][375]Cmd: TRANSACTION UNDO
+[2024.01.07-12.12.52:208][375]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.12.53:543][486]Cmd: TRANSACTION UNDO
+[2024.01.07-12.12.53:543][486]LogEditorTransaction: Undo Foliage Editing
+[2024.01.07-12.12.54:462][591]Cmd: TRANSACTION UNDO
+[2024.01.07-12.12.54:462][591]LogEditorTransaction: Undo Edit Max
+[2024.01.07-12.14.20:591][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.07-12.14.20:760][830]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel592CA57D485B4162B420BEAB96A10915.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Level/LandscapeLevel.umap'
+[2024.01.07-12.14.20:780][830]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel_BuiltData8A8EBA9B4A4297AC7E02FC8873743298.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Level/LandscapeLevel_BuiltData.uasset'
+[2024.01.07-12.14.20:795][830]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.07-12.14.20:795][830]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Level/Level/LandscapeLevel_BuiltData.LandscapeLevel_BuiltData
+[2024.01.07-12.14.20:795][830]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Level/LandscapeLevel.LandscapeLevel
+[2024.01.07-12.14.21:641][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
