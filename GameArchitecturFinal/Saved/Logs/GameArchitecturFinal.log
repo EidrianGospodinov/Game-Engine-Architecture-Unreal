@@ -2532,3 +2532,169 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2024.01.08-18.25.07:600][917]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/DoorsBB3D06A8403634955CE16BAA6EBF9559.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Blueprint/Doors.uasset'
 [2024.01.08-18.25.07:613][917]AssetCheck: New page: Asset Save: Doors
 [2024.01.08-18.25.07:613][917]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/Blueprint/Doors.Doors
+[2024.01.08-18.39.52:299][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Ceiling3)
+[2024.01.08-18.40.35:504][ 78]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-18.40.52:277][ 57]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-18.41.04:003][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Wall25)
+[2024.01.08-18.41.07:461][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Ceiling79)
+[2024.01.08-18.41.41:120][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Ceiling74)
+[2024.01.08-18.42.03:318][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Ceiling76)
+[2024.01.08-18.43.49:115][906]Cmd: TRANSACTION UNDO
+[2024.01.08-18.43.49:115][906]LogEditorTransaction: Undo Replace component used material
+[2024.01.08-18.45.29:650][ 43]Cmd: TRANSACTION UNDO
+[2024.01.08-18.45.29:650][ 43]LogEditorTransaction: Undo Create Actors
+[2024.01.08-18.45.31:552][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Ceiling19)
+[2024.01.08-18.45.32:629][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Ceiling18)
+[2024.01.08-18.45.38:727][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.08-18.45.38:735][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.08-18.45.38:735][ 28]PIE: New page: PIE session: LandscapeLevel (8 Jan 2024, 18:45:38)
+[2024.01.08-18.45.38:764][ 28]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.08-18.45.38:794][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029834s)
+[2024.01.08-18.45.38:795][ 28]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.08-18.45.38:795][ 28]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2024.01.08-18.45.38:795][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.031014s)
+[2024.01.08-18.45.38:840][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.01.08-18.45.38:845][ 28]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.01.08-18.45.38:845][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.08-18.45.38:845][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.08-18.45.38:845][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.08-18.45.38:845][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.08-18.45.38:845][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.08-18.45.38:845][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.08-18.45.38:845][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.08-18.45.38:845][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.08-18.45.38:846][ 28]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.08-18.45.38:846][ 28]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.08-18.45.38:846][ 28]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.08-18.45.38:846][ 28]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.08-18.45.38:851][ 28]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.08-18.45.38:851][ 28]LogAudioMixer: Display: 1: FrontRight
+[2024.01.08-18.45.38:868][ 28]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.08-18.45.38:868][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.08-18.45.38:868][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.08-18.45.38:868][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.08-18.45.38:868][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.08-18.45.38:868][ 28]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.08-18.45.38:868][ 28]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.08-18.45.38:869][ 28]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.08-18.45.38:869][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.08-18.45.38:869][ 28]LogInit: FAudioDevice initialized.
+[2024.01.08-18.45.38:869][ 28]LogAudio: Display: Audio Device (ID: 19) registered with world 'LandscapeLevel'.
+[2024.01.08-18.45.38:875][ 28]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.08-18.45.38:880][ 28]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.08-18.45.38
+[2024.01.08-18.45.38:881][ 28]LogWorld: Bringing up level for play took: 0.005377
+[2024.01.08-18.45.38:881][ 28]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2024.01.08-18.45.38:883][ 28]PIE: Server logged in
+[2024.01.08-18.45.38:884][ 28]PIE: Play in editor total start time 0.152 seconds.
+[2024.01.08-18.46.06:359][264]Cmd: LevelEditor.ToggleImmersive
+[2024.01.08-18.46.14:006][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-18.46.14:006][144]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.08-18.46.14:007][144]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-18.46.14:008][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-18.46.14:031][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.08-18.46.14:042][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-18.46.14:054][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-18.46.14:055][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.08-18.46.14:056][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.08-18.46.14:079][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.01.08-18.46.14:099][145]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.01.08-18.46.15:193][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Doorframe)
+[2024.01.08-18.46.23:541][220]LogEditorViewport: Clicking on Actor (LMB): Doors_C (Doors)
+[2024.01.08-18.46.31:835][189]LogEditorViewport: Clicking on Actor (LMB): Doors_C (Doors)
+[2024.01.08-18.46.37:468][857]LogEditorViewport: Clicking on Actor (LMB): Doors_C (Doors)
+[2024.01.08-18.46.38:387][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Ceiling91)
+[2024.01.08-18.46.39:467][ 92]LogEditorViewport: Clicking on Actor (LMB): Doors_C (Doors)
+[2024.01.08-18.47.01:654][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.01.08-18.47.01:852][720]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel08738A5648789618D8F6A2BBBF082C9B.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel.umap'
+[2024.01.08-18.47.01:872][720]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel_BuiltData00AB4FB5445F43A8AD5F5F96C20092E3.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel_BuiltData.uasset'
+[2024.01.08-18.47.01:885][720]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.08-18.47.01:885][720]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel
+[2024.01.08-18.47.01:885][720]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Level/Scene/LandscapeLevel_BuiltData.LandscapeLevel_BuiltData
+[2024.01.08-18.47.03:161][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.08-18.47.29:212][896]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Level/StaticMesh/Door.Door
+[2024.01.08-18.47.37:298][688]LogStaticMesh: Building static mesh Door...
+[2024.01.08-18.47.37:314][688]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Level/StaticMesh/Door.Door
+[2024.01.08-18.47.47:593][863]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/Door9DE10FF7490C9B584EE966976FFDAF35.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/StaticMesh/Door.uasset'
+[2024.01.08-18.47.47:604][863]AssetCheck: New page: Asset Save: Door
+[2024.01.08-18.47.47:604][863]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Level/StaticMesh/Door.Door
+[2024.01.08-18.47.48:862][  2]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.08-18.47.48:865][  2]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.08-18.47.50:522][198]LogSlate: Window 'Door' being destroyed
+[2024.01.08-18.47.50:526][198]LogSlate: Window 'Door' being destroyed
+[2024.01.08-18.47.50:564][198]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-18.47.50:564][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-18.48.19:754][574]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.08-18.48.19:762][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.08-18.48.19:762][574]PIE: New page: PIE session: LandscapeLevel (8 Jan 2024, 18:48:19)
+[2024.01.08-18.48.19:794][574]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.08-18.48.19:824][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030406s)
+[2024.01.08-18.48.19:825][574]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.08-18.48.19:825][574]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2024.01.08-18.48.19:825][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.031509s)
+[2024.01.08-18.48.19:838][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.08-18.48.19:846][574]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.01.08-18.48.19:846][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.08-18.48.19:846][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.08-18.48.19:846][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.08-18.48.19:846][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.08-18.48.19:846][574]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.08-18.48.19:846][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.08-18.48.19:846][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.08-18.48.19:846][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.08-18.48.19:847][574]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.08-18.48.19:847][574]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.08-18.48.19:847][574]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.08-18.48.19:847][574]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.08-18.48.19:852][574]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.08-18.48.19:852][574]LogAudioMixer: Display: 1: FrontRight
+[2024.01.08-18.48.19:869][574]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.08-18.48.19:869][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.08-18.48.19:869][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.08-18.48.19:869][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.08-18.48.19:869][574]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.08-18.48.19:869][574]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.08-18.48.19:869][574]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.08-18.48.19:870][574]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.08-18.48.19:870][574]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.08-18.48.19:870][574]LogInit: FAudioDevice initialized.
+[2024.01.08-18.48.19:870][574]LogAudio: Display: Audio Device (ID: 20) registered with world 'LandscapeLevel'.
+[2024.01.08-18.48.19:879][574]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.08-18.48.19:886][574]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.08-18.48.19
+[2024.01.08-18.48.19:886][574]LogWorld: Bringing up level for play took: 0.005690
+[2024.01.08-18.48.19:886][574]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2024.01.08-18.48.19:889][574]PIE: Server logged in
+[2024.01.08-18.48.19:889][574]PIE: Play in editor total start time 0.13 seconds.
+[2024.01.08-18.48.26:376][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-18.48.26:376][325]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.08-18.48.26:376][325]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-18.48.26:379][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-18.48.26:387][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.08-18.48.26:393][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-18.48.26:403][325]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.08-18.48.26:403][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.08-18.48.26:404][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.08-18.48.26:406][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-18.48.26:410][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.01.08-18.48.26:434][326]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.01.08-18.48.32:115][  1]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight1)
+[2024.01.08-18.48.39:725][903]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2024.01.08-18.49.02:315][582]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight1)
+[2024.01.08-18.49.35:977][538]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-18.49.49:380][123]Cmd: TRANSACTION UNDO
+[2024.01.08-18.49.49:380][123]LogEditorTransaction: Undo Move Actors
+[2024.01.08-18.50.00:785][440]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2024.01.08-18.50.02:175][605]Cmd: DELETE
+[2024.01.08-18.50.02:175][605]Cmd: ACTOR DELETE
+[2024.01.08-18.50.02:180][605]LogEditorActor: Deleted Actor: PointLight
+[2024.01.08-18.50.02:191][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.08-18.50.02:199][605]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.01.08-18.50.12:350][761]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2024.01.08-18.50.34:428][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Wall18)
+[2024.01.08-18.50.35:213][134]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2024.01.08-18.50.44:121][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.01.08-18.50.44:338][963]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevelD78E15D84BB2F331B55F01BFC9829264.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel.umap'
+[2024.01.08-18.50.44:358][963]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel_BuiltData096689F64A2AF77ADB3CB99E0D5D8B85.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel_BuiltData.uasset'
+[2024.01.08-18.50.44:369][963]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.08-18.50.44:369][963]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel
+[2024.01.08-18.50.44:369][963]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Level/Scene/LandscapeLevel_BuiltData.LandscapeLevel_BuiltData
+[2024.01.08-18.50.46:556][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
