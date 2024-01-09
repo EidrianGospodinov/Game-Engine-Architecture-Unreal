@@ -1659,3 +1659,28 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2024.01.09-13.52.22:428][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.01.09-13.52.22:433][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2024.01.09-13.52.22:490][147]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.01.09-13.53.00:317][578]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.01.09-13.55.41:395][905]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.01.09-13.55.43:670][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.09-13.55.46:272][176]LogSlate: Window 'Save Content' being destroyed
+[2024.01.09-13.55.46:305][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.01.09-13.55.46:534][176]LogSavePackage: Moving '../../../../../../Users/w1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel0E49E8C04C6411519CD50EB0DC207238.tmp' to '../../../../../../Users/w1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel.umap'
+[2024.01.09-13.55.46:542][176]LogFileHelpers: Saving map 'LandscapeLevel' took 0.241
+[2024.01.09-13.55.46:570][176]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Level/Scene/MainMenuLevel.MainMenuLevel
+[2024.01.09-13.55.46:571][176]LightingResults: New page: Lighting Build
+[2024.01.09-13.55.46:571][176]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2024.01.09-13.55.46:574][176]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.55.46:574][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.55.46:574][176]MapCheck: New page: Map Check
+[2024.01.09-13.55.46:574][176]LightingResults: New page: Lighting Build
+[2024.01.09-13.55.46:579][176]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.09-13.55.46:583][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.09-13.55.46:583][176]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2024.01.09-13.55.46:601][176]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.09-13.55.46:601][176]LogAIModule: Creating AISystem for world MainMenuLevel
+[2024.01.09-13.55.46:607][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.01.09-13.55.46:613][176]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.09-13.55.46:613][176]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2024.01.09-13.55.46:613][176]LogFileHelpers: Loading map 'MainMenuLevel' took 0.042
+[2024.01.09-13.55.46:626][176]AssetCheck: New page: Asset Save: LandscapeLevel
+[2024.01.09-13.55.46:626][176]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel
