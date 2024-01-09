@@ -2267,3 +2267,173 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2024.01.09-14.34.04:382][821]AssetCheck: New page: Asset Save: multiple assets
 [2024.01.09-14.34.04:382][821]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel
 [2024.01.09-14.34.04:382][821]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/Blueprint/FPSCharacter.FPSCharacter
+[2024.01.09-14.35.00:247][877]BlueprintLog: New page: Compile LandscapeLevel
+[2024.01.09-14.35.00:276][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.09-14.35.03:036][188]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.09-14.35.03:043][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.09-14.35.03:043][188]PIE: New page: PIE session: LandscapeLevel (9 Jan 2024, 14:35:03)
+[2024.01.09-14.35.03:068][188]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-14.35.03:100][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031636s)
+[2024.01.09-14.35.03:100][188]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.09-14.35.03:101][188]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2024.01.09-14.35.03:101][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.032558s)
+[2024.01.09-14.35.03:114][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.09-14.35.03:115][188]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.01.09-14.35.03:115][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.09-14.35.03:115][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.09-14.35.03:115][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.09-14.35.03:115][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.09-14.35.03:115][188]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.09-14.35.03:115][188]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.09-14.35.03:115][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.09-14.35.03:115][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.09-14.35.03:115][188]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.09-14.35.03:115][188]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.09-14.35.03:115][188]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.09-14.35.03:115][188]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.09-14.35.03:119][188]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.09-14.35.03:119][188]LogAudioMixer: Display: 1: FrontRight
+[2024.01.09-14.35.03:128][188]LogAudioMixer: Display: Using Audio Device VK248 (NVIDIA High Definition Audio)
+[2024.01.09-14.35.03:128][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.09-14.35.03:128][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.09-14.35.03:128][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.09-14.35.03:128][188]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.09-14.35.03:128][188]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.09-14.35.03:128][188]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.09-14.35.03:129][188]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.09-14.35.03:129][188]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.09-14.35.03:129][188]LogInit: FAudioDevice initialized.
+[2024.01.09-14.35.03:129][188]LogAudio: Display: Audio Device (ID: 17) registered with world 'LandscapeLevel'.
+[2024.01.09-14.35.03:138][188]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.09-14.35.03:145][188]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.09-14.35.03
+[2024.01.09-14.35.03:145][188]LogWorld: Bringing up level for play took: 0.006069
+[2024.01.09-14.35.03:145][188]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2024.01.09-14.35.03:148][188]PIE: Server logged in
+[2024.01.09-14.35.03:148][188]PIE: Play in editor total start time 0.107 seconds.
+[2024.01.09-14.35.18:671][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-14.35.18:671][ 44]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-14.35.18:671][ 44]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-14.35.18:673][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-14.35.18:680][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.09-14.35.18:686][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-14.35.18:700][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-14.35.18:700][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-14.35.18:701][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-14.35.18:705][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.09-14.35.18:762][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.01.09-14.36.41:542][548]LogEditorTransaction: Undo Change Number Pin Value
+[2024.01.09-14.36.42:349][596]LogEditorTransaction: Undo Paste clipboard contents
+[2024.01.09-14.37.48:337][390]Cmd: TRANSACTION UNDO
+[2024.01.09-14.37.48:337][390]LogEditorTransaction: Undo Set Location
+[2024.01.09-14.37.48:943][415]Cmd: TRANSACTION UNDO
+[2024.01.09-14.37.48:943][415]LogEditorTransaction: Undo Set Location
+[2024.01.09-14.37.49:509][483]Cmd: TRANSACTION UNDO
+[2024.01.09-14.37.49:509][483]LogEditorTransaction: Undo Clicking on Actors
+[2024.01.09-14.37.56:771][344]Cmd: TRANSACTION UNDO
+[2024.01.09-14.37.56:771][344]LogEditorTransaction: Undo Set Rotation
+[2024.01.09-14.38.00:554][747]Cmd: TRANSACTION UNDO
+[2024.01.09-14.38.00:554][747]LogEditorTransaction: Undo Set Location
+[2024.01.09-14.38.17:254][652]Cmd: TRANSACTION UNDO
+[2024.01.09-14.38.17:254][652]LogEditorTransaction: Undo Set Rotation
+[2024.01.09-14.38.18:007][694]Cmd: TRANSACTION UNDO
+[2024.01.09-14.38.18:007][694]LogEditorTransaction: Undo Set Rotation
+[2024.01.09-14.38.18:703][777]Cmd: TRANSACTION UNDO
+[2024.01.09-14.38.18:703][777]LogEditorTransaction: Undo Set Rotation
+[2024.01.09-14.38.59:347][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_38' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_38.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_39' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_39.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_40' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_40.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_41' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_41.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_42' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_42.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_43' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_43.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_44' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_44.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_45' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_45.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_46' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_46.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_47' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_47.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_48' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_48.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_49' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_49.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_50' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_50.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_51' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_51.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_52' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:348][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_52.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:349][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_53' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:349][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_53.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:349][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_54' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:349][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_54.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:349][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_55' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:349][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_55.BodySetup_0 when we are unable to.
+[2024.01.09-14.38.59:349][637]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_56' invalid (120 verts, 0 indices).
+[2024.01.09-14.38.59:349][637]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_56.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:486][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_38' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:486][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_38.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:486][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_39' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:486][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_39.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:486][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_40' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:486][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_40.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:486][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_41' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:486][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_41.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_42' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_42.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_43' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_43.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_44' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_44.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_45' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_45.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_46' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_46.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_47' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_47.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_48' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_48.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_49' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_49.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_50' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_50.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_51' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_51.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_52' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_52.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_53' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_53.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_54' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_54.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_55' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_55.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_56' invalid (120 verts, 0 indices).
+[2024.01.09-14.39.06:487][490]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel:PersistentLevel.ModelComponent_56.BodySetup_0 when we are unable to.
+[2024.01.09-14.39.55:839][403]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2024.01.09-14.40.14:188][536]LogSlate: Window 'BP_Sky_Sphere' being destroyed
+[2024.01.09-14.40.14:194][536]LogSlate: Window 'BP_Sky_Sphere' being destroyed
+[2024.01.09-14.40.14:245][536]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-14.40.14:245][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-14.40.14:272][536]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-14.40.14:273][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-14.40.32:864][745]Cmd: TRANSACTION UNDO
+[2024.01.09-14.40.32:864][745]LogEditorTransaction: Undo Set Rotation
+[2024.01.09-14.40.33:614][789]Cmd: TRANSACTION UNDO
+[2024.01.09-14.40.33:614][789]LogEditorTransaction: Undo Set Rotation
+[2024.01.09-14.40.34:282][869]Cmd: TRANSACTION UNDO
+[2024.01.09-14.40.34:282][869]LogEditorTransaction: Undo Clicking on Actors
+[2024.01.09-14.40.45:948][258]Cmd: TRANSACTION UNDO
+[2024.01.09-14.40.45:948][258]LogEditorTransaction: Undo Set Rotation
+[2024.01.09-14.41.00:687][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.01.09-14.41.02:881][952]LogSlate: Window 'Save Content' being destroyed
+[2024.01.09-14.41.02:922][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.09-14.41.03:140][952]LogSavePackage: Moving '../../../../../../Users/w1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevelD9491A0D49D86FFC8538D8BCE866D0AF.tmp' to '../../../../../../Users/w1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel.umap'
+[2024.01.09-14.41.03:149][952]LogFileHelpers: Saving map 'LandscapeLevel' took 0.241
+[2024.01.09-14.41.03:159][952]AssetCheck: New page: Asset Save: LandscapeLevel
+[2024.01.09-14.41.03:159][952]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel
