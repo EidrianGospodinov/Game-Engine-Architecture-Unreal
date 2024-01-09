@@ -6952,3 +6952,1651 @@ End Map
 [2024.01.09-12.14.17:472][181]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/pink_glass2FC7F6F34E64389D2FED98B97320092B.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Material/pink_glass.uasset'
 [2024.01.09-12.14.17:479][181]AssetCheck: New page: Asset Save: pink_glass
 [2024.01.09-12.14.17:479][181]LogContentValidation: Display: Validating Material /Game/StarterContent/Level/Material/pink_glass.pink_glass
+[2024.01.09-12.40.43:984][763]LogActorFactory: Actor Factory created Cube
+[2024.01.09-12.40.47:425][175]LogActorFactory: Actor Factory created Cube
+[2024.01.09-12.41.42:567][666]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.09-12.41.42:574][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.09-12.41.42:574][666]PIE: New page: PIE session: LandscapeLevel (9 Jan 2024, 12:41:42)
+[2024.01.09-12.41.42:597][666]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-12.41.42:631][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034387s)
+[2024.01.09-12.41.42:632][666]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.09-12.41.42:632][666]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2024.01.09-12.41.42:632][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.035412s)
+[2024.01.09-12.41.42:644][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.09-12.41.42:656][666]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2024.01.09-12.41.42:656][666]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.09-12.41.42:656][666]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.09-12.41.42:656][666]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.09-12.41.42:656][666]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.09-12.41.42:656][666]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.09-12.41.42:656][666]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.09-12.41.42:656][666]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.09-12.41.42:656][666]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.09-12.41.42:656][666]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.09-12.41.42:656][666]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.09-12.41.42:656][666]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.09-12.41.42:656][666]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.09-12.41.42:662][666]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.09-12.41.42:662][666]LogAudioMixer: Display: 1: FrontRight
+[2024.01.09-12.41.42:679][666]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.09-12.41.42:679][666]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.09-12.41.42:679][666]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.09-12.41.42:679][666]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.09-12.41.42:679][666]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.09-12.41.42:679][666]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.09-12.41.42:679][666]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.09-12.41.42:680][666]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.09-12.41.42:680][666]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.09-12.41.42:680][666]LogInit: FAudioDevice initialized.
+[2024.01.09-12.41.42:680][666]LogAudio: Display: Audio Device (ID: 96) registered with world 'LandscapeLevel'.
+[2024.01.09-12.41.42:689][666]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.09-12.41.42:696][666]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.09-12.41.42
+[2024.01.09-12.41.42:697][666]LogWorld: Bringing up level for play took: 0.006286
+[2024.01.09-12.41.42:697][666]LogOnline: OSS: Creating online subsystem instance for: :Context_113
+[2024.01.09-12.41.42:699][666]PIE: Server logged in
+[2024.01.09-12.41.42:700][666]PIE: Play in editor total start time 0.128 seconds.
+[2024.01.09-12.41.54:030][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-12.41.54:030][ 19]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-12.41.54:030][ 19]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-12.41.54:032][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-12.41.54:037][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.09-12.41.54:048][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-12.41.54:059][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.09-12.41.54:059][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-12.41.54:060][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-12.41.54:063][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-12.41.54:066][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.09-12.41.54:112][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2024.01.09-12.41.56:825][346]Cmd: DELETE
+[2024.01.09-12.41.56:825][346]Cmd: ACTOR DELETE
+[2024.01.09-12.41.56:830][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.09-12.41.56:841][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.09-12.41.56:843][346]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.01.09-12.42.05:808][401]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.09-12.42.37:005][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.09-12.42.37:214][ 88]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel_Auto1CC8B57E642A66A1928B8B18E9FCFBA59.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/Autosaves/Game/StarterContent/Level/Scene/LandscapeLevel_Auto1.umap'
+[2024.01.09-12.42.37:215][ 88]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Level/Scene/LandscapeLevel' took 0.221
+[2024.01.09-12.42.37:215][ 88]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.221
+[2024.01.09-12.42.42:061][659]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Level/Gamemode/FPsGamemode.FPsGamemode
+[2024.01.09-12.43.20:002][557]LogSlate: Window 'FPsGamemode' being destroyed
+[2024.01.09-12.43.20:046][557]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-12.43.20:047][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-12.43.20:095][557]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Level/Gamemode/FPsGamemode.FPsGamemode
+[2024.01.09-12.44.41:909][265]BlueprintLog: New page: Compile FPsGamemode
+[2024.01.09-12.44.41:932][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.09-12.45.46:560][957]LogEditorTransaction: Undo Add New Function
+[2024.01.09-12.48.09:526][943]LogWindows: LaunchFileInExternalEditor C:/UOW_Apps/Epic Games/UE_4.27/Engine/Source/Runtime/Engine/Classes/GameFramework/GameModeBase.h 
+[2024.01.09-12.48.10:375][943]LogWindows: Launch application code for C:/UOW_Apps/Epic Games/UE_4.27/Engine/Source/Runtime/Engine/Classes/GameFramework/GameModeBase.h : 42
+[2024.01.09-12.48.10:375][943]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:380][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:381][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:382][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:383][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:384][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:385][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:386][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:442][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:480][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:480][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:484][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:484][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:484][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:646][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:658][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:658][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:658][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:724][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:724][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:724][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:724][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:725][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:726][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:727][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:728][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:729][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:730][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:731][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:731][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:731][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:731][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:731][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:731][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:731][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:731][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:731][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:790][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:828][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:828][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:832][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:832][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:832][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:983][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:994][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:994][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.48.10:994][943]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.09-12.49.00:003][719]BlueprintLog: New page: Compile FPsGamemode
+[2024.01.09-12.49.00:027][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.01.09-12.49.31:419][460]Cmd: DELETE
+[2024.01.09-12.49.31:419][460]Cmd: ACTOR DELETE
+[2024.01.09-12.49.31:424][460]LogEditorActor: Deleted Actor: PlayerStart
+[2024.01.09-12.49.31:438][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.01.09-12.49.31:440][460]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.09-12.50.23:872][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.09-12.50.24:083][614]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel15B659B1491731019991259DB43A95F5.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel.umap'
+[2024.01.09-12.50.24:102][614]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel_BuiltData4C47DD5F4DE10461F9C940AC679228AB.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel_BuiltData.uasset'
+[2024.01.09-12.50.24:119][614]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.09-12.50.24:119][614]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Level/Scene/LandscapeLevel_BuiltData.LandscapeLevel_BuiltData
+[2024.01.09-12.50.24:120][614]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel
+[2024.01.09-12.50.24:994][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.09-12.50.26:210][687]LogSlate: Window 'Save Content' being destroyed
+[2024.01.09-12.50.26:252][687]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/FPsGamemodeC7BF63634273D231D83271AE8DC233E6.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Gamemode/FPsGamemode.uasset'
+[2024.01.09-12.50.26:260][687]AssetCheck: New page: Asset Save: FPsGamemode
+[2024.01.09-12.50.26:260][687]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/Gamemode/FPsGamemode.FPsGamemode
+[2024.01.09-12.50.33:536][335]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.09-12.50.33:544][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.09-12.50.33:544][335]PIE: New page: PIE session: LandscapeLevel (9 Jan 2024, 12:50:33)
+[2024.01.09-12.50.33:544][335]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-12.50.33:579][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034596s)
+[2024.01.09-12.50.33:579][335]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.09-12.50.33:579][335]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2024.01.09-12.50.33:579][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.035525s)
+[2024.01.09-12.50.33:593][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.09-12.50.33:594][335]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2024.01.09-12.50.33:594][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.09-12.50.33:594][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.09-12.50.33:594][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.09-12.50.33:594][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.09-12.50.33:594][335]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.09-12.50.33:594][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.09-12.50.33:594][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.09-12.50.33:594][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.09-12.50.33:594][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.09-12.50.33:594][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.09-12.50.33:594][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.09-12.50.33:594][335]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.09-12.50.33:600][335]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.09-12.50.33:600][335]LogAudioMixer: Display: 1: FrontRight
+[2024.01.09-12.50.33:617][335]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.09-12.50.33:617][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.09-12.50.33:617][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.09-12.50.33:617][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.09-12.50.33:617][335]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.09-12.50.33:617][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.09-12.50.33:617][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.09-12.50.33:618][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.09-12.50.33:618][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.09-12.50.33:618][335]LogInit: FAudioDevice initialized.
+[2024.01.09-12.50.33:618][335]LogAudio: Display: Audio Device (ID: 97) registered with world 'LandscapeLevel'.
+[2024.01.09-12.50.33:628][335]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.09-12.50.33:635][335]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.09-12.50.33
+[2024.01.09-12.50.33:636][335]LogWorld: Bringing up level for play took: 0.006349
+[2024.01.09-12.50.33:636][335]LogOnline: OSS: Creating online subsystem instance for: :Context_116
+[2024.01.09-12.50.33:638][335]PIE: Server logged in
+[2024.01.09-12.50.33:639][335]PIE: Play in editor total start time 0.097 seconds.
+[2024.01.09-12.50.48:959][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-12.50.48:959][985]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-12.50.48:960][985]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-12.50.48:962][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-12.50.48:971][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.09-12.50.48:980][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-12.50.48:993][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-12.50.48:993][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-12.50.48:993][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-12.50.49:000][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.09-12.50.49:057][987]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2024.01.09-12.51.05:858][384]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.01.09-12.51.05:873][384]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.09-12.52.30:674][353]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.09-12.52.30:681][353]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.09-12.52.30:688][353]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.09-12.52.35:959][795]LogContentBrowser: Attempting asset rename: NewBlueprint -> CheckPoint
+[2024.01.09-12.52.35:963][795]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.09-12.52.43:179][394]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Level/CheckPoint.CheckPoint
+[2024.01.09-12.53.17:137][875]BlueprintLog: New page: Compile CheckPoint
+[2024.01.09-12.53.17:165][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.01.09-12.53.51:966][714]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPoint361A86084B62E1CAEA02F2B8BF4FEA4D.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/CheckPoint.uasset'
+[2024.01.09-12.53.51:977][714]AssetCheck: New page: Asset Save: CheckPoint
+[2024.01.09-12.53.51:978][714]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/CheckPoint.CheckPoint
+[2024.01.09-12.55.15:724][988]BlueprintLog: New page: Compile CheckPoint
+[2024.01.09-12.55.15:773][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.01.09-12.55.17:749][196]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPoint68CA6930408F31AC57E70FACF0AA7BFD.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/CheckPoint.uasset'
+[2024.01.09-12.55.17:758][196]AssetCheck: New page: Asset Save: CheckPoint
+[2024.01.09-12.55.17:758][196]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/CheckPoint.CheckPoint
+[2024.01.09-12.55.24:215][811]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPointE61A9D0C463420A561306BB126E9E005.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/CheckPoint.uasset'
+[2024.01.09-12.55.24:224][811]AssetCheck: New page: Asset Save: CheckPoint
+[2024.01.09-12.55.24:224][811]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/CheckPoint.CheckPoint
+[2024.01.09-12.55.52:258][124]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.09-12.55.52:260][124]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.01.09-12.56.04:140][124]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.09-12.56.09:382][722]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2024.01.09-12.56.09:390][722]LogContentBrowser: Creating deferred item: NewInterface
+[2024.01.09-12.56.26:061][721]LogContentBrowser: Attempting asset rename: NewInterface -> UpdateSpawnPointLoc
+[2024.01.09-12.56.26:064][721]LogContentBrowser: End creating deferred item NewInterface
+[2024.01.09-12.56.31:811][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Level/UpdateSpawnPointLoc.UpdateSpawnPointLoc
+[2024.01.09-12.57.03:584][182]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.09-12.57.26:511][901]BlueprintLog: New page: Compile UpdateSpawnPointLoc
+[2024.01.09-12.57.26:529][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.01.09-12.58.32:951][788]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.01.09-12.58.32:967][788]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.09-12.58.48:823][682]BlueprintLog: New page: Compile FPsGamemode
+[2024.01.09-12.58.48:849][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.09-12.58.56:484][582]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/FPsGamemode2D0FAA2A4AAEA975B55FE6969554FFBF.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Gamemode/FPsGamemode.uasset'
+[2024.01.09-12.58.56:495][582]AssetCheck: New page: Asset Save: FPsGamemode
+[2024.01.09-12.58.56:495][582]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/Gamemode/FPsGamemode.FPsGamemode
+[2024.01.09-12.58.59:845][956]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/UpdateSpawnPointLocE5F2071448F6EB3687CEE08D96484DDA.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/UpdateSpawnPointLoc.uasset'
+[2024.01.09-12.58.59:856][956]AssetCheck: New page: Asset Save: UpdateSpawnPointLoc
+[2024.01.09-12.58.59:856][956]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/UpdateSpawnPointLoc.UpdateSpawnPointLoc
+[2024.01.09-13.00.09:108][178]BlueprintLog: New page: Compile CheckPoint
+[2024.01.09-13.00.09:135][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.01.09-13.00.39:227][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.09-13.00.39:452][725]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel_Auto276B67F5242AEB7425F72A1B1B293710F.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/Autosaves/Game/StarterContent/Level/Scene/LandscapeLevel_Auto2.umap'
+[2024.01.09-13.00.39:454][725]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Level/Scene/LandscapeLevel' took 0.241
+[2024.01.09-13.00.39:454][725]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.241
+[2024.01.09-13.00.39:454][725]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Level/CheckPoint] ([2] browsable assets)...
+[2024.01.09-13.00.39:454][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Level/CheckPoint]
+[2024.01.09-13.00.39:460][725]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPoint_Auto215EFCB8946E240263F86C18E66D825F4.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/Autosaves/Game/StarterContent/Level/CheckPoint_Auto2.uasset'
+[2024.01.09-13.00.39:461][725]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.01.09-13.00.43:949][249]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPoint6043BFB848901D0E7DB14E9DCE140DF8.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/CheckPoint.uasset'
+[2024.01.09-13.00.43:958][249]AssetCheck: New page: Asset Save: CheckPoint
+[2024.01.09-13.00.43:958][249]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/CheckPoint.CheckPoint
+[2024.01.09-13.00.47:699][677]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPointC201D0E84A26163AE5EB6B860467D918.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/CheckPoint.uasset'
+[2024.01.09-13.00.47:709][677]AssetCheck: New page: Asset Save: CheckPoint
+[2024.01.09-13.00.47:709][677]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/CheckPoint.CheckPoint
+[2024.01.09-13.01.05:484][706]Cmd: TRANSACTION UNDO
+[2024.01.09-13.01.05:484][706]LogEditorTransaction: Undo Create Actors
+[2024.01.09-13.01.10:906][290]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.01.09-13.01.39:949][419]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.09-13.01.39:956][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.09-13.01.39:956][419]PIE: New page: PIE session: LandscapeLevel (9 Jan 2024, 13:01:39)
+[2024.01.09-13.01.39:996][419]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-13.01.40:032][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036560s)
+[2024.01.09-13.01.40:033][419]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.09-13.01.40:033][419]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2024.01.09-13.01.40:033][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.037598s)
+[2024.01.09-13.01.40:055][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.09-13.01.40:055][419]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2024.01.09-13.01.40:055][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.09-13.01.40:055][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.09-13.01.40:055][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.09-13.01.40:055][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.09-13.01.40:055][419]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.09-13.01.40:055][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.09-13.01.40:055][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.09-13.01.40:055][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.09-13.01.40:056][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.09-13.01.40:056][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.09-13.01.40:056][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.09-13.01.40:056][419]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.09-13.01.40:064][419]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.09-13.01.40:064][419]LogAudioMixer: Display: 1: FrontRight
+[2024.01.09-13.01.40:080][419]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.09-13.01.40:080][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.09-13.01.40:080][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.09-13.01.40:081][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.09-13.01.40:081][419]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.09-13.01.40:081][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.09-13.01.40:081][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.09-13.01.40:082][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.09-13.01.40:082][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.09-13.01.40:082][419]LogInit: FAudioDevice initialized.
+[2024.01.09-13.01.40:082][419]LogAudio: Display: Audio Device (ID: 98) registered with world 'LandscapeLevel'.
+[2024.01.09-13.01.40:089][419]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.09-13.01.40:095][419]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.09-13.01.40
+[2024.01.09-13.01.40:095][419]LogWorld: Bringing up level for play took: 0.006033
+[2024.01.09-13.01.40:095][419]LogOnline: OSS: Creating online subsystem instance for: :Context_119
+[2024.01.09-13.01.40:098][419]PIE: Server logged in
+[2024.01.09-13.01.40:098][419]PIE: Play in editor total start time 0.145 seconds.
+[2024.01.09-13.02.04:599][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-13.02.04:599][109]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-13.02.04:599][109]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.02.04:601][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.02.04:609][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.09-13.02.04:615][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.02.04:630][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.09-13.02.04:630][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.02.04:631][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.02.04:633][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-13.02.04:638][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.09-13.02.04:695][111]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2024.01.09-13.02.42:488][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.09-13.02.43:927][164]LogSlate: Window 'Save Content' being destroyed
+[2024.01.09-13.02.43:973][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.09-13.02.44:181][164]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel4DE4A36F4CDEAFE8C68D1DBCF75CB4CC.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel.umap'
+[2024.01.09-13.02.44:189][164]LogFileHelpers: Saving map 'LandscapeLevel' took 0.230
+[2024.01.09-13.02.44:199][164]AssetCheck: New page: Asset Save: LandscapeLevel
+[2024.01.09-13.02.44:199][164]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel
+[2024.01.09-13.05.00:675][745]BlueprintLog: New page: Compile FPsGamemode
+[2024.01.09-13.05.00:702][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.01.09-13.05.01:316][789]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/FPsGamemode677C90604C67B94EBFDD3A8D279B77D1.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Gamemode/FPsGamemode.uasset'
+[2024.01.09-13.05.01:327][789]AssetCheck: New page: Asset Save: FPsGamemode
+[2024.01.09-13.05.01:327][789]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/Gamemode/FPsGamemode.FPsGamemode
+[2024.01.09-13.05.48:763][487]BlueprintLog: New page: Compile FPsGamemode
+[2024.01.09-13.05.48:789][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.01.09-13.07.04:091][368]LogEditorTransaction: Undo Add Node
+[2024.01.09-13.07.26:469][ 92]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.01.09-13.07.26:484][ 92]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.09-13.07.56:571][437]BlueprintLog: New page: Compile FPsGamemode
+[2024.01.09-13.07.56:598][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.01.09-13.07.57:433][489]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/FPsGamemode91F5CE894263C308C2625CAC82179AC4.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Gamemode/FPsGamemode.uasset'
+[2024.01.09-13.07.57:443][489]AssetCheck: New page: Asset Save: FPsGamemode
+[2024.01.09-13.07.57:443][489]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/Gamemode/FPsGamemode.FPsGamemode
+[2024.01.09-13.08.06:990][245]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.09-13.08.06:998][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.09-13.08.06:998][245]PIE: New page: PIE session: LandscapeLevel (9 Jan 2024, 13:08:06)
+[2024.01.09-13.08.06:998][245]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-13.08.07:032][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033929s)
+[2024.01.09-13.08.07:033][245]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.09-13.08.07:033][245]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2024.01.09-13.08.07:033][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.034852s)
+[2024.01.09-13.08.07:048][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.09-13.08.07:049][245]LogAudio: Display: Creating Audio Device:                 Id: 99, Scope: Unique, Realtime: True
+[2024.01.09-13.08.07:049][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.09-13.08.07:049][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.09-13.08.07:049][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.09-13.08.07:049][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.09-13.08.07:049][245]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.09-13.08.07:049][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.09-13.08.07:049][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.09-13.08.07:049][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.09-13.08.07:049][245]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.09-13.08.07:049][245]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.09-13.08.07:049][245]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.09-13.08.07:049][245]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.09-13.08.07:056][245]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.09-13.08.07:056][245]LogAudioMixer: Display: 1: FrontRight
+[2024.01.09-13.08.07:073][245]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.09-13.08.07:073][245]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.09-13.08.07:073][245]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.09-13.08.07:073][245]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.09-13.08.07:074][245]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.09-13.08.07:074][245]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.09-13.08.07:074][245]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.09-13.08.07:074][245]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.09-13.08.07:074][245]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.09-13.08.07:074][245]LogInit: FAudioDevice initialized.
+[2024.01.09-13.08.07:074][245]LogAudio: Display: Audio Device (ID: 99) registered with world 'LandscapeLevel'.
+[2024.01.09-13.08.07:081][245]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.09-13.08.07:089][245]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.09-13.08.07
+[2024.01.09-13.08.07:089][245]LogWorld: Bringing up level for play took: 0.006572
+[2024.01.09-13.08.07:089][245]LogOnline: OSS: Creating online subsystem instance for: :Context_120
+[2024.01.09-13.08.07:092][245]PIE: Server logged in
+[2024.01.09-13.08.07:092][245]PIE: Play in editor total start time 0.097 seconds.
+[2024.01.09-13.08.36:489][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-13.08.36:489][702]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-13.08.36:489][702]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.08.36:491][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.08.36:503][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.09-13.08.36:509][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.08.36:523][702]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.09-13.08.36:523][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.08.36:523][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.08.36:526][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-13.08.36:529][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.09-13.08.36:582][704]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2024.01.09-13.13.11:795][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.09-13.13.11:797][417]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Level/Scene/LandscapeLevel' took 0.018
+[2024.01.09-13.13.11:797][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Level/CheckPoint] ([2] browsable assets)...
+[2024.01.09-13.13.11:797][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Level/CheckPoint]
+[2024.01.09-13.13.11:805][417]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPoint_Auto3B76273304022A3555336FF9EA32AE28F.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/Autosaves/Game/StarterContent/Level/CheckPoint_Auto3.uasset'
+[2024.01.09-13.13.11:805][417]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.01.09-13.16.23:433][361]BlueprintLog: New page: Compile CheckPoint
+[2024.01.09-13.16.23:465][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.09-13.16.38:215][107]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPoint89671234464EB12B99140BB516AC6E6F.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/CheckPoint.uasset'
+[2024.01.09-13.16.38:224][107]AssetCheck: New page: Asset Save: CheckPoint
+[2024.01.09-13.16.38:225][107]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/CheckPoint.CheckPoint
+[2024.01.09-13.16.44:855][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.09-13.16.45:068][881]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel166214D2467CD24F3FC059AD03CFF884.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel.umap'
+[2024.01.09-13.16.45:088][881]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel_BuiltDataDFD2DB1C418F4F874C40C7889D4FE4BF.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel_BuiltData.uasset'
+[2024.01.09-13.16.45:098][881]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.09-13.16.45:098][881]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Level/Scene/LandscapeLevel_BuiltData.LandscapeLevel_BuiltData
+[2024.01.09-13.16.45:098][881]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel
+[2024.01.09-13.16.46:388][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.09-13.17.53:307][927]LogWindows: LaunchURL http://UnrealEngine.com
+[2024.01.09-13.24.46:022][758]LogMaterial: Display: Missing cached shadermap for M_sA_Aura in PCD3D_SM5, Default, SM5 (DDC key hash: 1C4E7A3CEE7ACAD3ED8FCB4E515EF1D93EB00D63), compiling. 
+[2024.01.09-13.24.46:055][758]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2024.01.09-13.24.46:056][758]LogMaterial: Display: Missing cached shadermap for MI_Aura_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C3964437457616AAD1DAC9FF4A4F0808A58ED661), compiling. 
+[2024.01.09-13.24.46:123][758]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 84
+[2024.01.09-13.24.46:123][758]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 76
+[2024.01.09-13.24.46:123][758]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 68
+[2024.01.09-13.24.46:123][758]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 60
+[2024.01.09-13.24.46:123][758]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 52
+[2024.01.09-13.24.46:123][758]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 44
+[2024.01.09-13.24.46:123][758]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 36
+[2024.01.09-13.24.46:123][758]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 28
+[2024.01.09-13.24.46:123][758]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2024.01.09-13.24.46:123][758]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2024.01.09-13.24.46:123][758]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2024.01.09-13.24.46:123][758]LogShaderCompilers: Display: Started 84 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.46:123][758]LogMaterial: Display: Missing cached shadermap for M_AdditiveScrollNiagara in PCD3D_SM5, Default, SM5 (DDC key hash: 84CFF337CA137A558FD402D4417049558C856DD4), compiling. 
+[2024.01.09-13.24.46:163][758]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2024.01.09-13.24.46:178][758]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 84
+[2024.01.09-13.24.46:178][758]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.46:178][758]LogMaterial: Display: Missing cached shadermap for M_Master_Fresnel in PCD3D_SM5, Default, SM5 (DDC key hash: B8181D83168651AEC2F26E6789A1FC288A879F7D), compiling. 
+[2024.01.09-13.24.46:214][758]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2024.01.09-13.24.48:947][853]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 124
+[2024.01.09-13.24.48:947][853]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.48:954][853]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.09-13.24.48:954][853]LogShaderCompilers: Display: Total job queries 1088, among them cache hits 406 (37.32%)
+[2024.01.09-13.24.48:954][853]LogShaderCompilers: Display: Tracking 243 distinct input hashes that result in 101 distinct outputs (41.56%)
+[2024.01.09-13.24.48:954][853]LogShaderCompilers: Display: RAM used: 0.79 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.02%
+[2024.01.09-13.24.48:954][853]LogShaderCompilers: Display: ================================================
+[2024.01.09-13.24.49:129][861]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 114
+[2024.01.09-13.24.49:130][861]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.49:236][865]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 104
+[2024.01.09-13.24.49:236][865]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.49:420][872]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 95
+[2024.01.09-13.24.49:420][872]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.49:420][872]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 87
+[2024.01.09-13.24.49:420][872]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.49:472][874]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 79
+[2024.01.09-13.24.49:472][874]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.49:512][875]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 72
+[2024.01.09-13.24.49:512][875]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.50:004][897]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 65
+[2024.01.09-13.24.50:004][897]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.50:236][907]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 59
+[2024.01.09-13.24.50:236][907]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.50:386][913]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 54
+[2024.01.09-13.24.50:387][913]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.50:792][930]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 49
+[2024.01.09-13.24.50:792][930]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.51:436][957]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 44
+[2024.01.09-13.24.51:436][957]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.52:046][982]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 40
+[2024.01.09-13.24.52:046][982]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.52:245][991]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2024.01.09-13.24.52:245][991]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.52:401][997]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 32
+[2024.01.09-13.24.52:401][997]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.52:665][  7]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 29
+[2024.01.09-13.24.52:665][  7]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.52:693][  8]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2024.01.09-13.24.52:693][  8]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:037][ 22]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 23
+[2024.01.09-13.24.53:037][ 22]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:086][ 24]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2024.01.09-13.24.53:086][ 24]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:111][ 25]BlueprintLog: New page: Compile CheckPoint
+[2024.01.09-13.24.53:201][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2024.01.09-13.24.53:288][ 26]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 19
+[2024.01.09-13.24.53:288][ 26]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:288][ 26]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2024.01.09-13.24.53:288][ 26]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:464][ 33]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2024.01.09-13.24.53:464][ 33]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:464][ 33]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2024.01.09-13.24.53:464][ 33]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:501][ 34]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2024.01.09-13.24.53:501][ 34]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:710][ 43]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2024.01.09-13.24.53:710][ 43]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:773][ 46]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2024.01.09-13.24.53:773][ 46]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:846][ 49]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2024.01.09-13.24.53:846][ 49]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:900][ 51]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2024.01.09-13.24.53:900][ 51]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:924][ 52]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2024.01.09-13.24.53:924][ 52]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.53:924][ 52]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2024.01.09-13.24.53:924][ 52]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.54:027][ 56]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2024.01.09-13.24.54:027][ 56]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.54:027][ 56]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2024.01.09-13.24.54:027][ 56]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.54:057][ 57]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2024.01.09-13.24.54:057][ 57]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.54:119][ 60]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2024.01.09-13.24.54:119][ 60]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.24.55:282][159]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPointB641DAEA4651734E088C13947B076934.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/CheckPoint.uasset'
+[2024.01.09-13.24.55:289][159]AssetCheck: New page: Asset Save: CheckPoint
+[2024.01.09-13.24.55:289][159]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/CheckPoint.CheckPoint
+[2024.01.09-13.24.58:513][524]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.09-13.24.58:520][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.09-13.24.58:520][524]PIE: New page: PIE session: LandscapeLevel (9 Jan 2024, 13:24:58)
+[2024.01.09-13.24.58:566][524]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-13.24.58:606][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039760s)
+[2024.01.09-13.24.58:607][524]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.09-13.24.58:607][524]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2024.01.09-13.24.58:607][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.040840s)
+[2024.01.09-13.24.58:622][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.09-13.24.58:623][524]LogAudio: Display: Creating Audio Device:                 Id: 100, Scope: Unique, Realtime: True
+[2024.01.09-13.24.58:623][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.09-13.24.58:623][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.09-13.24.58:623][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.09-13.24.58:623][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.09-13.24.58:623][524]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.09-13.24.58:623][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.09-13.24.58:623][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.09-13.24.58:623][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.09-13.24.58:623][524]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.09-13.24.58:623][524]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.09-13.24.58:623][524]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.09-13.24.58:623][524]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.09-13.24.58:629][524]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.09-13.24.58:629][524]LogAudioMixer: Display: 1: FrontRight
+[2024.01.09-13.24.58:646][524]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.09-13.24.58:646][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.09-13.24.58:646][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.09-13.24.58:646][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.09-13.24.58:646][524]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.09-13.24.58:647][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.09-13.24.58:647][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.09-13.24.58:647][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.09-13.24.58:647][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.09-13.24.58:647][524]LogInit: FAudioDevice initialized.
+[2024.01.09-13.24.58:647][524]LogAudio: Display: Audio Device (ID: 100) registered with world 'LandscapeLevel'.
+[2024.01.09-13.24.58:652][524]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.09-13.24.58:659][524]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.09-13.24.58
+[2024.01.09-13.24.58:659][524]LogWorld: Bringing up level for play took: 0.006289
+[2024.01.09-13.24.58:660][524]LogOnline: OSS: Creating online subsystem instance for: :Context_121
+[2024.01.09-13.24.58:662][524]PIE: Server logged in
+[2024.01.09-13.24.58:663][524]PIE: Play in editor total start time 0.145 seconds.
+[2024.01.09-13.25.21:249][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-13.25.21:249][144]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-13.25.21:249][144]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.25.21:251][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.25.21:259][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.09-13.25.21:266][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.25.21:280][144]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.09-13.25.21:280][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.25.21:281][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.25.21:283][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-13.25.21:287][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.09-13.25.21:337][146]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2024.01.09-13.25.31:439][183]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.09-13.25.31:446][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.09-13.25.31:446][183]PIE: New page: PIE session: LandscapeLevel (9 Jan 2024, 13:25:31)
+[2024.01.09-13.25.31:475][183]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-13.25.31:510][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034185s)
+[2024.01.09-13.25.31:510][183]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.09-13.25.31:510][183]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2024.01.09-13.25.31:511][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.035090s)
+[2024.01.09-13.25.31:525][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.09-13.25.31:526][183]LogAudio: Display: Creating Audio Device:                 Id: 101, Scope: Unique, Realtime: True
+[2024.01.09-13.25.31:526][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.09-13.25.31:526][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.09-13.25.31:526][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.09-13.25.31:526][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.09-13.25.31:526][183]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.09-13.25.31:526][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.09-13.25.31:526][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.09-13.25.31:526][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.09-13.25.31:526][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.09-13.25.31:526][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.09-13.25.31:526][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.09-13.25.31:526][183]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.09-13.25.31:532][183]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.09-13.25.31:532][183]LogAudioMixer: Display: 1: FrontRight
+[2024.01.09-13.25.31:547][183]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.09-13.25.31:547][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.09-13.25.31:547][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.09-13.25.31:547][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.09-13.25.31:547][183]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.09-13.25.31:547][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.09-13.25.31:547][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.09-13.25.31:548][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.09-13.25.31:548][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.09-13.25.31:548][183]LogInit: FAudioDevice initialized.
+[2024.01.09-13.25.31:548][183]LogAudio: Display: Audio Device (ID: 101) registered with world 'LandscapeLevel'.
+[2024.01.09-13.25.31:553][183]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.09-13.25.31:559][183]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.09-13.25.31
+[2024.01.09-13.25.31:559][183]LogWorld: Bringing up level for play took: 0.005798
+[2024.01.09-13.25.31:559][183]LogOnline: OSS: Creating online subsystem instance for: :Context_122
+[2024.01.09-13.25.31:562][183]PIE: Server logged in
+[2024.01.09-13.25.31:562][183]PIE: Play in editor total start time 0.119 seconds.
+[2024.01.09-13.26.07:378][414]Cmd: LevelEditor.ToggleImmersive
+[2024.01.09-13.26.37:858][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-13.26.37:858][855]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-13.26.37:859][855]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.26.37:861][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.26.37:878][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.09-13.26.37:885][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.26.37:898][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-13.26.37:900][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.26.37:900][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.26.37:906][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.09-13.26.37:924][856]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2024.01.09-13.26.38:903][971]Cmd: SELECT NONE
+[2024.01.09-13.26.43:146][476]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.09-13.26.43:154][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.09-13.26.43:154][476]PIE: New page: PIE session: LandscapeLevel (9 Jan 2024, 13:26:43)
+[2024.01.09-13.26.43:185][476]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-13.26.43:218][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033347s)
+[2024.01.09-13.26.43:219][476]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.09-13.26.43:219][476]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2024.01.09-13.26.43:219][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.034250s)
+[2024.01.09-13.26.43:233][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.09-13.26.43:234][476]LogAudio: Display: Creating Audio Device:                 Id: 102, Scope: Unique, Realtime: True
+[2024.01.09-13.26.43:234][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.09-13.26.43:234][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.09-13.26.43:234][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.09-13.26.43:234][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.09-13.26.43:234][476]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.09-13.26.43:234][476]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.09-13.26.43:234][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.09-13.26.43:234][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.09-13.26.43:235][476]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.09-13.26.43:235][476]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.09-13.26.43:235][476]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.09-13.26.43:235][476]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.09-13.26.43:241][476]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.09-13.26.43:241][476]LogAudioMixer: Display: 1: FrontRight
+[2024.01.09-13.26.43:257][476]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.09-13.26.43:257][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.09-13.26.43:257][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.09-13.26.43:257][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.09-13.26.43:257][476]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.09-13.26.43:257][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.09-13.26.43:257][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.09-13.26.43:258][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.09-13.26.43:258][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.09-13.26.43:258][476]LogInit: FAudioDevice initialized.
+[2024.01.09-13.26.43:258][476]LogAudio: Display: Audio Device (ID: 102) registered with world 'LandscapeLevel'.
+[2024.01.09-13.26.43:269][476]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.09-13.26.43:276][476]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.09-13.26.43
+[2024.01.09-13.26.43:276][476]LogWorld: Bringing up level for play took: 0.006479
+[2024.01.09-13.26.43:276][476]LogOnline: OSS: Creating online subsystem instance for: :Context_123
+[2024.01.09-13.26.43:279][476]PIE: Server logged in
+[2024.01.09-13.26.43:280][476]PIE: Play in editor total start time 0.128 seconds.
+[2024.01.09-13.27.21:148][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-13.27.21:148][819]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-13.27.21:148][819]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.27.21:150][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.27.21:156][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.09-13.27.21:167][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.27.21:180][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-13.27.21:180][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.27.21:181][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.27.21:187][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.09-13.27.21:231][821]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2024.01.09-13.27.57:850][889]LogSlate: Window 'UpdateSpawnPointLoc' being destroyed
+[2024.01.09-13.27.57:853][889]LogSlate: Window 'UpdateSpawnPointLoc' being destroyed
+[2024.01.09-13.27.57:895][889]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.27.57:895][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.27.57:933][889]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.09-13.27.57:933][889]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.27.57:933][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.27.57:971][889]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.27.57:971][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.28.06:075][840]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/sA_PickupSet_1/Fx/NiagaraEmitters/Ne_Aura.Ne_Aura
+[2024.01.09-13.28.06:167][840]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.06:170][840]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2024.01.09-13.28.06:170][840]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.06:170][840]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.06:172][840]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.06:176][840]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2024.01.09-13.28.06:176][840]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2024.01.09-13.28.06:176][840]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.06:176][840]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.06:260][840]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2024.01.09-13.28.06:260][840]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.06:367][840]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.09-13.28.06:367][840]LogShaderCompilers: Display: Total job queries 1092, among them cache hits 406 (37.18%)
+[2024.01.09-13.28.06:367][840]LogShaderCompilers: Display: Tracking 452 distinct input hashes that result in 176 distinct outputs (38.94%)
+[2024.01.09-13.28.06:367][840]LogShaderCompilers: Display: RAM used: 1.41 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.04%
+[2024.01.09-13.28.06:367][840]LogShaderCompilers: Display: ================================================
+[2024.01.09-13.28.06:708][841]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.607317 sec (time since issued), 1.803935 sec (combined shader worker time).
+[2024.01.09-13.28.06:970][849]87434_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2024.01.09-13.28.10:128][193]LogSlate: Window 'Ne_Aura' being destroyed
+[2024.01.09-13.28.10:130][193]LogSlate: Window 'Ne_Aura' being destroyed
+[2024.01.09-13.28.10:145][193]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.28.10:145][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.28.10:152][193]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.28.10:152][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.28.10:213][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.01.09-13.28.11:895][388]LogMaterial: Display: Missing cached shadermap for M_Master_MetalFX in PCD3D_SM5, Default, SM5 (DDC key hash: 31DFFB28F28D3FB06303EB8F9258D593646760DA), compiling. 
+[2024.01.09-13.28.11:948][388]LogShaderCompilers: Display: Submitted 110 shader compile jobs with 'Low' priority
+[2024.01.09-13.28.11:963][388]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 110
+[2024.01.09-13.28.11:964][388]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 100
+[2024.01.09-13.28.11:964][388]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 90
+[2024.01.09-13.28.11:964][388]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 80
+[2024.01.09-13.28.11:964][388]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 70
+[2024.01.09-13.28.11:964][388]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 60
+[2024.01.09-13.28.11:964][388]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 50
+[2024.01.09-13.28.11:964][388]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 40
+[2024.01.09-13.28.11:964][388]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 30
+[2024.01.09-13.28.11:964][388]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2024.01.09-13.28.11:964][388]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2024.01.09-13.28.11:964][388]LogShaderCompilers: Display: Started 110 'Local' shader compile jobs with 'Low' priority
+[2024.01.09-13.28.11:976][388]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/sA_PickupSet_1/Fx/NiagaraEmitters/NE_CoinBurst.NE_CoinBurst
+[2024.01.09-13.28.12:126][388]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.12:133][388]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2024.01.09-13.28.12:133][388]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.12:133][388]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.12:137][388]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.12:145][388]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.12:813][390]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2024.01.09-13.28.12:813][390]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.13:360][402]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2024.01.09-13.28.13:360][402]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.13:815][411]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2024.01.09-13.28.13:815][411]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.01.09-13.28.14:225][421]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_1 took 2.225578 sec (time since issued), 5.700682 sec (combined shader worker time).
+[2024.01.09-13.28.14:828][429]103217_NiagaraSystem_1_MessageLog: System successfully compiled.
+[2024.01.09-13.28.21:450][ 55]LogSlate: Window 'NE_CoinBurst' being destroyed
+[2024.01.09-13.28.21:452][ 55]LogSlate: Window 'NE_CoinBurst' being destroyed
+[2024.01.09-13.28.21:505][ 55]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.28.21:505][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.28.21:511][ 55]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.28.21:511][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.28.21:566][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.01.09-13.28.53:673][891]Cmd: SELECT NONE
+[2024.01.09-13.29.14:507][366]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Level/UpdateSpawnPointLoc.UpdateSpawnPointLoc
+[2024.01.09-13.29.17:774][717]LogSlate: Window 'UpdateSpawnPointLoc' being destroyed
+[2024.01.09-13.29.17:780][717]LogSlate: Window 'UpdateSpawnPointLoc' being destroyed
+[2024.01.09-13.29.17:806][717]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.29.17:806][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.29.19:425][903]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Level/CheckPoint.CheckPoint
+[2024.01.09-13.29.41:574][456]Cmd: TRANSACTION UNDO
+[2024.01.09-13.29.41:574][456]LogEditorTransaction: Undo Promote To Variable
+[2024.01.09-13.31.17:660][298]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/NS_Pickup_1CFA68F45458391A1C60BD6B0CD3D1C00.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/NS_Pickup_1.uasset'
+[2024.01.09-13.31.17:703][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.01.09-13.31.17:723][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.09-13.31.17:735][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.09-13.31.17:765][298]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPointED929C474D5C3E6223BEF78468BAE539.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/CheckPoint.uasset'
+[2024.01.09-13.31.17:876][298]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.09-13.31.17:876][298]LogContentValidation: Display: Validating NiagaraSystem /Game/StarterContent/Level/NS_Pickup_1.NS_Pickup_1
+[2024.01.09-13.31.17:876][298]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/CheckPoint.CheckPoint
+[2024.01.09-13.31.32:237][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.09-13.31.45:708][945]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.09-13.31.45:765][945]LogSlate: Window 'CheckPoint' being destroyed
+[2024.01.09-13.31.45:774][945]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.31.45:774][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.31.45:809][945]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/sA_PickupSet_1/Fx/NiagaraEmitters/Ne_Aura.Ne_Aura
+	Asset Name: /Game/sA_PickupSet_1/Fx/NiagaraEmitters/NE_CoinBurst.NE_CoinBurst
+[2024.01.09-13.31.46:667][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.09-13.31.46:687][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.09-13.31.46:699][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.01.09-13.31.46:710][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.09-13.31.53:338][554]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.09-13.31.53:346][554]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.09-13.31.53:346][554]LogPlayLevel: [PlayLevel] Compiling CheckPoint before play...
+[2024.01.09-13.31.53:367][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.09-13.31.53:371][554]LogPlayLevel: PlayLevel: Blueprint regeneration took 25 ms (1 blueprints)
+[2024.01.09-13.31.53:371][554]PIE: New page: PIE session: LandscapeLevel (9 Jan 2024, 13:31:53)
+[2024.01.09-13.31.53:371][554]LogPlayLevel: Creating play world package: /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-13.31.53:402][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031267s)
+[2024.01.09-13.31.53:403][554]LogAIModule: Creating AISystem for world LandscapeLevel
+[2024.01.09-13.31.53:403][554]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2024.01.09-13.31.53:403][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel to /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel (0.032257s)
+[2024.01.09-13.31.53:415][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.09-13.31.53:415][554]LogAudio: Display: Creating Audio Device:                 Id: 103, Scope: Unique, Realtime: True
+[2024.01.09-13.31.53:415][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.09-13.31.53:415][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.09-13.31.53:415][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.09-13.31.53:415][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.09-13.31.53:415][554]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.09-13.31.53:415][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.09-13.31.53:415][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.09-13.31.53:415][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.09-13.31.53:416][554]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.09-13.31.53:416][554]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.09-13.31.53:416][554]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.09-13.31.53:416][554]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.09-13.31.53:422][554]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.09-13.31.53:422][554]LogAudioMixer: Display: 1: FrontRight
+[2024.01.09-13.31.53:436][554]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.09-13.31.53:436][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.09-13.31.53:436][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.09-13.31.53:436][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.09-13.31.53:437][554]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.09-13.31.53:437][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.09-13.31.53:437][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.09-13.31.53:437][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.09-13.31.53:437][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.09-13.31.53:437][554]LogInit: FAudioDevice initialized.
+[2024.01.09-13.31.53:437][554]LogAudio: Display: Audio Device (ID: 103) registered with world 'LandscapeLevel'.
+[2024.01.09-13.31.53:442][554]LogLoad: Game class is 'FPsGamemode_C'
+[2024.01.09-13.31.53:448][554]LogWorld: Bringing World /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel.LandscapeLevel up for play (max tick rate 0) at 2024.01.09-13.31.53
+[2024.01.09-13.31.53:449][554]LogWorld: Bringing up level for play took: 0.006345
+[2024.01.09-13.31.53:449][554]LogOnline: OSS: Creating online subsystem instance for: :Context_130
+[2024.01.09-13.31.53:451][554]PIE: Server logged in
+[2024.01.09-13.31.53:452][554]PIE: Play in editor total start time 0.109 seconds.
+[2024.01.09-13.32.07:628][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-13.32.07:628][194]LogWorld: BeginTearingDown for /Game/StarterContent/Level/Scene/UEDPIE_0_LandscapeLevel
+[2024.01.09-13.32.07:628][194]LogWorld: UWorld::CleanupWorld for LandscapeLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.32.07:630][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.32.07:635][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.09-13.32.07:638][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-13.32.07:650][194]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.09-13.32.07:650][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.32.07:651][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.32.07:654][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-13.32.07:657][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.09-13.32.07:720][196]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2024.01.09-13.32.14:162][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Ceiling103)
+[2024.01.09-13.32.22:567][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Ceiling101)
+[2024.01.09-13.32.23:471][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Ceiling101)
+[2024.01.09-13.32.24:153][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dummy_Ceiling101)
+[2024.01.09-13.32.38:159][334]Cmd: DELETE
+[2024.01.09-13.32.38:159][334]Cmd: ACTOR DELETE
+[2024.01.09-13.32.38:169][334]LogEditorActor: Deleted Actor: CheckPoint_C
+[2024.01.09-13.32.38:182][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.09-13.32.38:188][334]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.01.09-13.32.40:391][565]Cmd: DELETE
+[2024.01.09-13.32.40:391][565]Cmd: ACTOR DELETE
+[2024.01.09-13.32.40:396][565]LogEditorActor: Deleted Actor: CheckPoint_C
+[2024.01.09-13.32.40:410][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.01.09-13.32.40:412][565]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.09-13.33.00:212][865]Cmd: DELETE
+[2024.01.09-13.33.00:213][865]Cmd: ACTOR DELETE
+[2024.01.09-13.33.00:217][865]LogEditorActor: Deleted Actor: CheckPoint_C
+[2024.01.09-13.33.00:229][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.09-13.33.00:234][865]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.09-13.33.06:432][604]Cmd: TRANSACTION UNDO
+[2024.01.09-13.33.06:432][604]LogEditorTransaction: Undo Delete Actors
+[2024.01.09-13.35.43:408][370]Cmd: TRANSACTION UNDO
+[2024.01.09-13.35.43:408][370]LogEditorTransaction: Undo Create Folder
+[2024.01.09-13.36.25:255][304]LogEditorViewport: Clicking on Actor (LMB): WaterBodyOcean (WaterBodyOcean)
+[2024.01.09-13.36.53:088][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.09-13.36.54:790][612]LogSlate: Window 'Save Content' being destroyed
+[2024.01.09-13.36.54:835][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.09-13.36.55:043][612]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel2CF1BD3D4FF6D774644F459799B2F2ED.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel.umap'
+[2024.01.09-13.36.55:050][612]LogFileHelpers: Saving map 'LandscapeLevel' took 0.227
+[2024.01.09-13.36.55:274][612]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/NS_Pickup_12B0F26734AED7429ABC056B4C657F099.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/NS_Pickup_1.uasset'
+[2024.01.09-13.36.55:285][612]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.09-13.36.55:285][612]LogContentValidation: Display: Validating NiagaraSystem /Game/StarterContent/Level/NS_Pickup_1.NS_Pickup_1
+[2024.01.09-13.36.55:285][612]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel
+[2024.01.09-13.37.08:525][126]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.09-13.37.08:541][126]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.09-13.37.16:795][117]LogContentBrowser: Attempting asset rename: NewFolder -> CheckPoint
+[2024.01.09-13.37.16:796][117]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.09-13.37.34:489][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.CheckPoint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Level/CheckPoint.PackageMetaData'
+[2024.01.09-13.37.34:489][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.SKEL_CheckPoint_C' ref from Metadata '/Game/StarterContent/Level/CheckPoint.PackageMetaData'
+[2024.01.09-13.37.34:489][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.CheckPoint_C' ref from Metadata '/Game/StarterContent/Level/CheckPoint.PackageMetaData'
+[2024.01.09-13.37.34:489][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.CheckPoint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/StarterContent/Level/CheckPoint.PackageMetaData'
+[2024.01.09-13.37.34:489][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.CheckPoint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/StarterContent/Level/CheckPoint.PackageMetaData'
+[2024.01.09-13.37.34:489][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.CheckPoint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/StarterContent/Level/CheckPoint.PackageMetaData'
+[2024.01.09-13.37.34:489][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.SKEL_CheckPoint_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/Level/CheckPoint.PackageMetaData'
+[2024.01.09-13.37.34:489][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.SKEL_CheckPoint_C:BndEvt__CheckPoint_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/StarterContent/Level/CheckPoint.PackageMetaData'
+[2024.01.09-13.37.34:489][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.SKEL_CheckPoint_C:ReceiveTick' ref from Metadata '/Game/StarterContent/Level/CheckPoint.PackageMetaData'
+[2024.01.09-13.37.34:489][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.SKEL_CheckPoint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/StarterContent/Level/CheckPoint.PackageMetaData'
+[2024.01.09-13.37.34:489][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.SKEL_CheckPoint_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/Level/CheckPoint.PackageMetaData'
+[2024.01.09-13.37.34:493][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/UpdateSpawnPointLoc.SKEL_UpdateSpawnPointLoc_C' ref from Metadata '/Game/StarterContent/Level/UpdateSpawnPointLoc.PackageMetaData'
+[2024.01.09-13.37.34:493][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/UpdateSpawnPointLoc.UpdateSpawnPointLoc_C' ref from Metadata '/Game/StarterContent/Level/UpdateSpawnPointLoc.PackageMetaData'
+[2024.01.09-13.37.34:493][148]LogMetaData: Removing '/Game/StarterContent/Level/Blueprint/CheckPoint/UpdateSpawnPointLoc.UpdateSpawnPointLoc:Update spawn location.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Level/UpdateSpawnPointLoc.PackageMetaData'
+[2024.01.09-13.37.34:511][148]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPointC15904E24C6B452AD09C8480D1E7A346.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.uasset'
+[2024.01.09-13.37.34:514][148]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPointAAC701AD4C7AACC795BDE0B0F51B56C3.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/CheckPoint.uasset'
+[2024.01.09-13.37.34:517][148]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/UpdateSpawnPointLoc1BD0BF7E4FC4248C838D9985F4D1C21E.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Blueprint/CheckPoint/UpdateSpawnPointLoc.uasset'
+[2024.01.09-13.37.34:567][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.09-13.37.34:589][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.01.09-13.37.34:600][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.09-13.37.34:632][148]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/FPsGamemode1CACA8074371A58E088468BFB758A866.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Gamemode/FPsGamemode.uasset'
+[2024.01.09-13.37.34:746][148]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.09-13.37.34:746][148]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/Gamemode/FPsGamemode.FPsGamemode
+[2024.01.09-13.37.34:746][148]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/Blueprint/CheckPoint/UpdateSpawnPointLoc.UpdateSpawnPointLoc
+[2024.01.09-13.37.34:746][148]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Level/CheckPoint.CheckPoint
+[2024.01.09-13.37.34:746][148]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Level/CheckPoint.Default__CheckPoint_C
+[2024.01.09-13.37.34:746][148]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Level/CheckPoint.CheckPoint_C
+[2024.01.09-13.37.34:746][148]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.CheckPoint
+[2024.01.09-13.37.46:315][502]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.09-13.37.46:325][502]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.09-13.37.48:988][822]LogContentBrowser: Attempting asset rename: NewFolder -> FX
+[2024.01.09-13.37.48:988][822]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.09-13.37.53:441][317]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/NS_Pickup_1BC6D99DB4156E972D89977B48B66BAFE.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/FX/NS_Pickup_1.uasset'
+[2024.01.09-13.37.53:484][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.09-13.37.53:504][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.01.09-13.37.53:515][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.09-13.37.53:547][317]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/CheckPointC91277374873AC4A6093DC8F7EC99382.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.uasset'
+[2024.01.09-13.37.53:660][317]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.09-13.37.53:660][317]LogContentValidation: Display: Validating NiagaraSystem /Game/StarterContent/Level/FX/NS_Pickup_1.NS_Pickup_1
+[2024.01.09-13.37.53:660][317]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Level/Blueprint/CheckPoint/CheckPoint.CheckPoint
+[2024.01.09-13.37.56:763][685]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.09-13.37.56:765][685]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.09-13.37.57:685][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.09-13.37.57:894][792]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel6BE6B1404E04C58BF4F321A15A36DC60.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel.umap'
+[2024.01.09-13.37.57:913][792]LogSavePackage: Moving '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Saved/LandscapeLevel_BuiltData73AD87024F49C7EDDCABBB8C16F6F190.tmp' to '../../../../../../Users/W1886249/Documents/GitHub/Game-Engine-Architecture-Unreal/GameArchitecturFinal/Content/StarterContent/Level/Scene/LandscapeLevel_BuiltData.uasset'
+[2024.01.09-13.37.57:923][792]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.09-13.37.57:923][792]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Level/Scene/LandscapeLevel_BuiltData.LandscapeLevel_BuiltData
+[2024.01.09-13.37.57:923][792]LogContentValidation: Display: Validating World /Game/StarterContent/Level/Scene/LandscapeLevel.LandscapeLevel
+[2024.01.09-13.37.58:873][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.09-13.38.01:473][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.09-13.38.01:493][211]LogSlate: Window 'GameArchitecturFinal - Unreal Editor' being destroyed
+[2024.01.09-13.38.01:577][212]Cmd: QUIT_EDITOR
+[2024.01.09-13.38.01:577][212]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.01.09-13.38.01:584][212]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.01.09-13.38.02:425][212]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.01.09-13.38.02:425][212]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.01.09-13.38.02:425][212]LogAudio: Display: Audio Device unregistered from world 'LandscapeLevel'.
+[2024.01.09-13.38.02:425][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.38.02:426][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.09-13.38.02:429][212]LogAudio: Display: Audio Device Manager Shutdown
+[2024.01.09-13.38.02:429][212]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.01.09-13.38.02:435][212]LogExit: Preparing to exit.
+[2024.01.09-13.38.02:449][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.09-13.38.03:248][212]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.38.03:250][212]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.38.03:252][212]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.38.03:253][212]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.38.03:294][212]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2024.01.09-13.38.03:295][212]LogExit: Transaction tracking system shut down
+[2024.01.09-13.38.03:300][212]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-13.38.03:301][212]LogExit: Editor shut down
+[2024.01.09-13.38.03:545][212]LogExit: Object subsystem successfully closed.
+[2024.01.09-13.38.03:562][212]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.09-13.38.03:562][212]LogShaderCompilers: Display: Total job queries 1209, among them cache hits 409 (33.83%)
+[2024.01.09-13.38.03:562][212]LogShaderCompilers: Display: Tracking 569 distinct input hashes that result in 244 distinct outputs (42.88%)
+[2024.01.09-13.38.03:562][212]LogShaderCompilers: Display: RAM used: 1.87 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.06%
+[2024.01.09-13.38.03:562][212]LogShaderCompilers: Display: ================================================
+[2024.01.09-13.38.03:575][212]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module SequencerWidgets (890)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (888)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (886)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module Voice (884)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module StatsViewer (882)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module BlueprintGraph (880)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (878)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module SceneOutliner (876)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module AddContentDialog (874)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module WidgetCarousel (873)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module EditorWidgets (870)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (868)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (866)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module AutomationWorker (864)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module SteamVREditor (862)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module OculusMR (860)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (858)
+[2024.01.09-13.38.03:590][212]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (856)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (854)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (852)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module OpenXRInput (850)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (848)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (846)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (844)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module GooglePADEditor (842)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (840)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (838)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module TakeRecorder (837)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (834)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module TakesCore (832)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module WaterEditor (830)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module PlanarCut (828)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (810)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (808)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (806)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (804)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module CharacterAI (802)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (800)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (798)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (796)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module TextureAlignMode (794)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module BspMode (792)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module GeometryMode (790)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (788)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module SmartSnapping (786)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module SessionServices (784)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module MeshPaint (782)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (780)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module FoliageEdit (778)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module LandscapeEditor (776)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module MeshPaintMode (774)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (772)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module ActorPickerMode (770)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module PlacementMode (768)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module ViewportSnapping (766)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module ViewportInteraction (764)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module ClothPainter (762)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (761)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module LogVisualizer (758)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module IntroTutorials (756)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (755)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (752)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (750)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (748)
+[2024.01.09-13.38.03:591][212]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (747)
+[2024.01.09-13.38.05:000][212]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (744)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (742)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (740)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (738)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module TraceInsights (736)
+[2024.01.09-13.38.05:001][212]MemoryProfiler: Shutdown
+[2024.01.09-13.38.05:001][212]NetworkingProfiler: Shutdown
+[2024.01.09-13.38.05:001][212]LoadingProfiler: Shutdown
+[2024.01.09-13.38.05:001][212]TimingProfiler: Shutdown
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module TraceServices (735)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (732)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (730)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module InputBindingEditor (728)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module MergeActors (726)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (724)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module LocalizationService (723)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module HardwareTargeting (720)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (718)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module UndoHistory (716)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module XmlParser (714)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module Blutility (712)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (710)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (709)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (706)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (705)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module SettingsEditor (702)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module ProjectLauncher (700)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module SessionFrontend (698)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module ProfilerClient (696)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module DeviceManager (694)
+[2024.01.09-13.38.05:001][212]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (693)
+[2024.01.09-13.38.05:034][212]LogModuleManager: Shutting down and abandoning module AutomationController (690)
+[2024.01.09-13.38.05:034][212]LogModuleManager: Shutting down and abandoning module AutomationWindow (688)
+[2024.01.09-13.38.05:034][212]LogModuleManager: Shutting down and abandoning module Layers (686)
+[2024.01.09-13.38.05:034][212]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (684)
+[2024.01.09-13.38.05:034][212]LogModuleManager: Shutting down and abandoning module DetailCustomizations (682)
+[2024.01.09-13.38.05:034][212]LogModuleManager: Shutting down and abandoning module PackagesDialog (680)
+[2024.01.09-13.38.05:034][212]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (678)
+[2024.01.09-13.38.05:035][212]LogModuleManager: Shutting down and abandoning module Persona (676)
+[2024.01.09-13.38.05:035][212]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (675)
+[2024.01.09-13.38.05:035][212]LogModuleManager: Shutting down and abandoning module AnimGraph (673)
+[2024.01.09-13.38.05:035][212]LogModuleManager: Shutting down and abandoning module Kismet (670)
+[2024.01.09-13.38.05:044][212]LogModuleManager: Shutting down and abandoning module KismetWidgets (669)
+[2024.01.09-13.38.05:044][212]LogModuleManager: Shutting down and abandoning module GraphEditor (666)
+[2024.01.09-13.38.05:044][212]LogModuleManager: Shutting down and abandoning module StructViewer (664)
+[2024.01.09-13.38.05:044][212]LogModuleManager: Shutting down and abandoning module ClassViewer (662)
+[2024.01.09-13.38.05:045][212]LogModuleManager: Shutting down and abandoning module Toolbox (660)
+[2024.01.09-13.38.05:045][212]LogModuleManager: Shutting down and abandoning module ModuleUI (658)
+[2024.01.09-13.38.05:045][212]LogModuleManager: Shutting down and abandoning module OutputLog (656)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module GammaUI (654)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module Documentation (652)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module LiveCoding (650)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module LevelSequence (648)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (646)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module MovieScene (644)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (642)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module LauncherPlatform (640)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module AnalyticsET (638)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module PortalServices (636)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module PortalRpc (634)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module MessagingRpc (632)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (630)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module AudioMixerCore (629)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module AIModule (626)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module GameplayDebugger (625)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module AITestSuite (623)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module NavigationSystem (621)
+[2024.01.09-13.38.05:046][212]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (618)
+[2024.01.09-13.38.05:051][212]LogModuleManager: Shutting down and abandoning module ProfilerService (616)
+[2024.01.09-13.38.05:199][212]LogModuleManager: Shutting down and abandoning module TaskGraph (614)
+[2024.01.09-13.38.05:199][212]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (612)
+[2024.01.09-13.38.05:199][212]LogModuleManager: Shutting down and abandoning module OculusEditor (610)
+[2024.01.09-13.38.05:200][212]LogModuleManager: Shutting down and abandoning module OculusInput (608)
+[2024.01.09-13.38.05:200][212]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (606)
+[2024.01.09-13.38.05:200][212]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (604)
+[2024.01.09-13.38.05:200][212]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (602)
+[2024.01.09-13.38.05:200][212]LogModuleManager: Shutting down and abandoning module CollectionManager (601)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module TemplateSequence (598)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module SynthesisEditor (596)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module Synthesis (594)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (592)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (590)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module OpenXREditor (588)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (586)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module ImgMedia (584)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module GooglePAD (582)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module EditableMesh (580)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (578)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module CableComponent (576)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module AudioCapture (574)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (573)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (570)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module AssetTags (568)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (566)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module AppleImageUtils (564)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module AndroidPermission (562)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (560)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (558)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module TakeSequencer (556)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module TakeMovieScene (554)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module ScreenshotTools (552)
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (550)
+[2024.01.09-13.38.05:201][212]LogOpenImageDenoise: OIDN shutting down
+[2024.01.09-13.38.05:201][212]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (548)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module MotoSynth (546)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module LandmassEditor (544)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module Landmass (542)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module MeshConversion (540)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module DynamicMesh (538)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (536)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module GeometricObjects (534)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module MediaCompositing (532)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (530)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (528)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (526)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (524)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (523)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (520)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (518)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module ChaosNiagara (516)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (514)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module FractureEditor (512)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (511)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module BackChannel (508)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (506)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module AutomationUtils (504)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module AlembicImporter (502)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module AlembicLibrary (501)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module GeometryCache (500)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (499)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (494)
+[2024.01.09-13.38.05:202][212]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (492)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (490)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (488)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (486)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (484)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module PluginBrowser (482)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (480)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (478)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (476)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module CryptoKeys (474)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module CurveEditorTools (472)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (470)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (468)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (466)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (464)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (462)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module UObjectPlugin (460)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (458)
+[2024.01.09-13.38.05:203][212]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (456)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module PluginUtils (454)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (452)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (450)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module GitSourceControl (448)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module SourceControl (447)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (444)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (442)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (440)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (438)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (436)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (434)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (432)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (430)
+[2024.01.09-13.38.05:204][212]LogModuleManager: Shutting down and abandoning module LiveLink (428)
+[2024.01.09-13.38.06:016][212]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (426)
+[2024.01.09-13.38.06:016][212]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (424)
+[2024.01.09-13.38.06:016][212]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (422)
+[2024.01.09-13.38.06:016][212]LogModuleManager: Shutting down and abandoning module Paper2DEditor (420)
+[2024.01.09-13.38.06:016][212]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (418)
+[2024.01.09-13.38.06:016][212]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (416)
+[2024.01.09-13.38.06:016][212]LogModuleManager: Shutting down and abandoning module ActorSequence (414)
+[2024.01.09-13.38.06:017][212]LogModuleManager: Shutting down and abandoning module SoundFields (412)
+[2024.01.09-13.38.06:017][212]LogModuleManager: Shutting down and abandoning module SignificanceManager (410)
+[2024.01.09-13.38.06:017][212]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (408)
+[2024.01.09-13.38.06:017][212]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (406)
+[2024.01.09-13.38.06:017][212]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (404)
+[2024.01.09-13.38.06:017][212]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (400)
+[2024.01.09-13.38.06:017][212]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (398)
+[2024.01.09-13.38.06:017][212]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2024.01.09-13.38.06:017][212]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2024.01.09-13.38.06:017][212]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (392)
+[2024.01.09-13.38.06:017][212]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2024.01.09-13.38.06:118][212]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (386)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (384)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (382)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (380)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (378)
+[2024.01.09-13.38.06:219][212]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (376)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (374)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (372)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (370)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module MagicLeapController (368)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (366)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module MagicLeapAR (364)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module DataValidation (362)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (360)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (358)
+[2024.01.09-13.38.06:219][212]LogModuleManager: Shutting down and abandoning module FacialAnimation (356)
+[2024.01.09-13.38.06:220][212]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (354)
+[2024.01.09-13.38.06:220][212]LogModuleManager: Shutting down and abandoning module Niagara (352)
+[2024.01.09-13.38.06:220][212]LogModuleManager: Shutting down and abandoning module SignalProcessing (351)
+[2024.01.09-13.38.06:220][212]LogModuleManager: Shutting down and abandoning module NiagaraEditor (349)
+[2024.01.09-13.38.06:220][212]LogModuleManager: Shutting down and abandoning module NiagaraCore (346)
+[2024.01.09-13.38.06:220][212]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (344)
+[2024.01.09-13.38.06:220][212]LogModuleManager: Shutting down and abandoning module LevelEditor (343)
+[2024.01.09-13.38.06:220][212]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (342)
+[2024.01.09-13.38.06:220][212]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (340)
+[2024.01.09-13.38.06:220][212]LogModuleManager: Shutting down and abandoning module MainFrame (338)
+[2024.01.09-13.38.06:220][212]LogModuleManager: Shutting down and abandoning module HotReload (337)
+[2024.01.09-13.38.06:221][212]LogModuleManager: Shutting down and abandoning module ToolMenus (333)
+[2024.01.09-13.38.06:221][212]LogModuleManager: Shutting down and abandoning module ContentBrowser (331)
+[2024.01.09-13.38.06:221][212]LogModuleManager: Shutting down and abandoning module ContentBrowserData (330)
+[2024.01.09-13.38.06:221][212]LogModuleManager: Shutting down and abandoning module TreeMap (327)
+[2024.01.09-13.38.06:221][212]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (324)
+[2024.01.09-13.38.06:221][212]LogModuleManager: Shutting down and abandoning module AnimationSharing (322)
+[2024.01.09-13.38.06:221][212]LogModuleManager: Shutting down and abandoning module GameplayCameras (320)
+[2024.01.09-13.38.06:221][212]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (318)
+[2024.01.09-13.38.06:221][212]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (316)
+[2024.01.09-13.38.06:221][212]LogModuleManager: Shutting down and abandoning module Paper2D (314)
+[2024.01.09-13.38.06:221][212]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (312)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (310)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module BlueprintMaterialTextureNodes (308)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (306)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module PacketHandler (304)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module UMG (278)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module UMGEditor (277)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module MessageLog (275)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module SlateReflector (270)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module Slate (268)
+[2024.01.09-13.38.06:222][212]LogModuleManager: Shutting down and abandoning module SlateCore (266)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (264)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module UnrealEd (262)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module MRMesh (260)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (258)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (256)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module XAudio2 (254)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module Networking (252)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module Core (250)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module MaterialEditor (248)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module MovieSceneTools (246)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module CurveEditor (245)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module Sequencer (243)
+[2024.01.09-13.38.06:223][212]LogModuleManager: Shutting down and abandoning module EditorStyle (242)
+[2024.01.09-13.38.06:224][212]LogModuleManager: Shutting down and abandoning module KismetCompiler (238)
+[2024.01.09-13.38.06:224][212]LogModuleManager: Shutting down and abandoning module MeshBuilder (236)
+[2024.01.09-13.38.06:224][212]LogModuleManager: Shutting down and abandoning module MeshUtilities (234)
+[2024.01.09-13.38.06:224][212]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (233)
+[2024.01.09-13.38.06:224][212]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (232)
+[2024.01.09-13.38.06:224][212]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (231)
+[2024.01.09-13.38.06:224][212]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (229)
+[2024.01.09-13.38.06:224][212]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (227)
+[2024.01.09-13.38.06:224][212]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (225)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module MaterialBaking (221)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (216)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module DerivedDataCache (214)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module TargetPlatform (212)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (211)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (209)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (207)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (205)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (203)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (201)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (199)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (197)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (195)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (193)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (191)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (189)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module ImageWrapper (188)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (185)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (183)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (181)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (179)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (177)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (175)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (173)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (171)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (169)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (167)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (165)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (163)
+[2024.01.09-13.38.06:225][212]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (161)
+[2024.01.09-13.38.06:226][212]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (159)
+[2024.01.09-13.38.06:226][212]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (157)
+[2024.01.09-13.38.06:226][212]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (155)
+[2024.01.09-13.38.06:226][212]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (153)
+[2024.01.09-13.38.06:226][212]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (151)
+[2024.01.09-13.38.06:226][212]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (149)
+[2024.01.09-13.38.06:226][212]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (147)
+[2024.01.09-13.38.06:226][212]LogModuleManager: Shutting down and abandoning module Messaging (145)
+[2024.01.09-13.38.06:226][212]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (143)
+[2024.01.09-13.38.06:226][212]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (141)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (139)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module D3D11RHI (136)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module PhysXCooking (128)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module Chaos (126)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (118)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module SteamVRInput (116)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module SteamVR (114)
+[2024.01.09-13.38.06:228][212]LogHMD: Freeing OpenVRDLLHandle.
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module OculusHMD (112)
+[2024.01.09-13.38.06:228][212]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (110)
+[2024.01.09-13.38.06:229][212]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.01.09-13.38.06:229][212]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2024.01.09-13.38.06:229][212]LogModuleManager: Shutting down and abandoning module OpenXRAR (106)
+[2024.01.09-13.38.06:229][212]LogModuleManager: Shutting down and abandoning module AugmentedReality (105)
+[2024.01.09-13.38.06:229][212]LogModuleManager: Shutting down and abandoning module OpenXRHMD (102)
+[2024.01.09-13.38.06:229][212]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (100)
+[2024.01.09-13.38.06:229][212]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2024.01.09-13.38.06:229][212]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2024.01.09-13.38.06:229][212]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2024.01.09-13.38.06:229][212]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2024.01.09-13.38.06:229][212]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2024.01.09-13.38.06:230][212]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2024.01.09-13.38.06:230][212]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2024.01.09-13.38.06:236][212]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2024.01.09-13.38.06:236][212]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.01.09-13.38.06:236][212]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B00938956-44F5-82A9-1A15-CDAC4736A05D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=065fe3be469b297a428f2a9cdf96c39e%7Ce56d837ac04d4918ac025c166a3416e9%7Cdf700144-af97-476a-99e0-074adf872084&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.01.09-13.38.06:236][212]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2024.01.09-13.38.06:238][212]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2024.01.09-13.38.06:238][212]LogModuleManager: Shutting down and abandoning module Water (74)
+[2024.01.09-13.38.06:238][212]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2024.01.09-13.38.06:240][212]LogModuleManager: Shutting down and abandoning module Media (71)
+[2024.01.09-13.38.06:240][212]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2024.01.09-13.38.06:240][212]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2024.01.09-13.38.06:240][212]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2024.01.09-13.38.06:240][212]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2024.01.09-13.38.06:240][212]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2024.01.09-13.38.06:240][212]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2024.01.09-13.38.06:240][212]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2024.01.09-13.38.06:240][212]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2024.01.09-13.38.06:241][212]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2024.01.09-13.38.06:242][212]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.01.09-13.38.06:242][212]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.01.09-13.38.06:242][212]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.01.09-13.38.06:242][212]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.01.09-13.38.06:242][212]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.01.09-13.38.06:242][212]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.01.09-13.38.06:242][212]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.01.09-13.38.06:242][212]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.01.09-13.38.06:242][212]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.01.09-13.38.06:242][212]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.01.09-13.38.06:242][212]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2024.01.09-13.38.06:260][212]LogD3D11RHI: Shutdown
+[2024.01.09-13.38.06:260][212]LogD3D11RHI: CleanupD3DDevice
+[2024.01.09-13.38.06:262][212]LogExit: Exiting.
+[2024.01.09-13.38.06:272][212]Log file closed, 01/09/24 13:38:06
